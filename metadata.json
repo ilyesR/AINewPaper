@@ -1,0 +1,1247 @@
+{
+  "model": "gpt-5",
+  "created_at": "2025-10-07T09:58:36.621101Z",
+  "input_file": "subject.json",
+  "output_raw": {
+    "id": "resp_0c8bf220917002e70068e4e34e6b98819393ea7132fde1272c",
+    "created_at": 1759830862.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "gpt-5-2025-08-07",
+    "object": "response",
+    "output": [
+      {
+        "id": "rs_0c8bf220917002e70068e4e34f55488193bd33058624d333aa",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMpwloDLAOMEkAsiXcjzy3g-o8FklqYsd2pwCCc3iEwOD8pFQKjGpVBM9jQD6Z3htIcOG2c26JN2xssWqMze0QwttmfbpTO3zQnNoAUa9PTHsjM_vWhSOm3LfSgv3XZUGqiIDIB-Ty4ZLZUz4JCFiXCIcVOGzKJHyBeRTn7vcojf_hLljLaG95Wla33k3fuON_odruvVsy3K_AiFe_zhmNbTd3kyboaBniv2nWEtK-xSAWIEomZScP6DhJexVq-lZPm_hWUkuA4EAe3XMKkIx_cSSkIZ45UZsPu_QZosUBxsBXa8QM09TBqoGOdIG7sgyc0XxtgzqNOjR1CO0CxuAKj1GZofh3qw2g2Z0dOUS7KMRugowQ41R_dTRbJgIYaiUwDBortn-MbNKxnfrgGMVcB5Z0Ohgto14Xht35yYw2qNYY77un7Ln6HxNWgWg6vEGNm9q9TWV9XOzIxr-06vBTYpfPvOcdfPkd3eHshw_qpztyFt9lrXzuh2It6Tdnd1ydRftHOU7oUhuur-9eu05TwtmVOCxxn2RQB7K3f5VLJuwoY8Rm9J2feziVDUzFgC8RUdcZAnV6P_vpKuRYB638MQloFZQtfOXAAAyUdnxzhgDDGy4BZMI-bbym7jpbpMsOF7LgbPt5LhDRVFbDa8mi-_sylppZXC3EqjhksncHWE1a3XKvHaNa_0hGJCzpV25_4Xgfdn9hTY4VMQLQtBJKVLkvhDfLSVVOwtE4IdRgrXMQCG5D1aygL3UomWuwqU3kyI_Z_sP0xjHhskaypfoJMo6PZ6vcPgThoqnf74rmN0Jt8gyEMzt9LKp-0MvCbwWMzksixKnLMlGvU5ipwn9LTjYMs-Os1oEr0Dk8WZwOXEbNd8wpnyalqu7VA8X7hvMQb4jyH6OjnPa7I0TNwp6XzFmuMs1PqUFnjz5kfu0Z8YsCozZkNV-YspvQoLWVvzA_c2IJhE_XNiimdtUe4xQKl0SzAZeNW7JMolLgflrqTzw9vu_EQeEtmywWlBacDDsKWIpAK72nHvyxEFWxpHUjNzqomGoldZnPAF3UQPzfQF6dQ_GVedsMGUVgc-m9zWVE2bNn6DGH2fHoi-Xs4UEu19798XBOccP72PZM6_3K6ot_8v7CNQx4Ub42lTiDc3i3MJwDDcNWxu1cmwdWhn3YgQsVlmQTAzZJoO1nhSFk-u9Fo_1m_olbfq_-BhYpJqANsgFPJ_vLY7u_AEbG7L9jCfLXqWF7MoUXDZ6ALOi8Ro5x0qmfcRvbyrjfHevmD5ax3FYyZT6sw-XxySRQUlKLas3CfQyatrgOyV4Qzf0q21H3eIF7ziDRweD1xyMQz8asoZGKNU8nIysvYDHwcRovshdWNZI7gg4S1VPoWpDJSlUlFb84OGvXhAL_vIrdIfMg4Fs9h8ljGKHqwR6rYZ7AN0YE9plNk-jJSqdjOwWgGSV59sXTdPIYK1KaP7wMxFui87pbLQ-CcmYj8pL6ku0IVDw_ZvjXVjI_dQJZ6TO18cB4UoX5VtncWP3kr9IJnZ-vey80ZNUeWSktnFpPCHPsktSlNJLUDj4k9kNizzXV9X_QJyRq4ETQOFtak2Bqdu2YVwLTDc_ja6rQ96XSGC8JGGIJpgGlJCu4FEC66E4JRBsJ16LZwaaBBXmTdxFnxXpwTuvLgQ8_m3fi4d2ZcEWyLxealOX_f0T-BiSI4Gz8yQ3C5aIjN9iPZGmLCSgXN2qCaOLPhWHzO0eHO1tVOFZ7ohLTf13RV1J5VZog_kTRpvqmKh_uYaRa-45DB7cbkYzIkvxc-6q4M7PRh_CLxaIxxrXjWk5uRTbwz5pB-qTQn62hnTk7OoWGPRoVmpQTQdfs4137WY05h-iXnecfQQdhH4WGA2sywLX4fTDyBaixvPWy3c3qkMckGJCfPDYf9PDmoC0ub5Jg2pHu5tEBt0-NgZT5Kx7yqIyH9-WNPAlAIuyHf9586FlA4XqF944Wda2yn256m3OeRS-sLdVV66k-ruby8btBuP09TNWJj3oL43CS_VPfFSJwnSvSvljDH6FZqkCYZlXbgLyYEPF2Cm7hQ5-NItxIntBhboNNp-PxLxIK8hwwhYQCy5ymD65oxblorK1IGVTb5gk84-vCSaWIgj3ArKZupzHCXuKCLe0i-0p2mfmykt-jMA1yN95SrsHAuM6wtLVZvnwJCSapV9z2qjkFwszt0jqugipWu5jdDdr7EPK-A9oTQlfrwW2S3LN9wGYL5RgRI9uqVFO2xIEELvgnbu-E5LhBDHf26mIsQC2wQ9HrTxSPtVjW20j428nx5xsCaPZXv1JSkDr3fRrzVdzZronM-zAET7pW9wsnPelpCWHS3AlwhI-LZwdr5O_MGM2tvzmrgJsanjv3CFsK8r8V20j_6ohqtEpwTMzj6tj7rAAR11RTebkzbG9KKJ6lhu0kQfkwuoqaGsss3obI-DFK1g5jFMPGgnJw2GqCMnDlWxD63Lfw7nZI-TR4UZuBtsnVOgPcjSGHxZ70URQTyEIEK7QfK-lkJUVWnzXaxLw0uWXtDpEMj3m29BZcnMJVDLcaVDE6CONIxy59nflPFurC6ryJU-BgrnPLK6vJAvZhqpPzlCiQk0HIwZztzvQZfv4YbENkfNYeiSs7dW7VCw5CQKY5957o7GLwSdaJuQ_oXMfHEqQVvWrvIekjAxLQKlK-UQ35dpY-6o32bbDVkXLM0lMKSyUXuYDBcO6ejPoGgqDVm4HAQ1iNY10AvMC3OZBxyhSkE36pwS7PvRlJqOvGfPSdHsYNqo-q4RJNarmksK2h27jOpl0DcXfW8aVWMNiqXaRewn7XXB3AeqsEYbe5UrBu4r0ql40Nh06aOIUfoAdbbuwmaMf35Dr23_s_5ZmahptsOJi4wd9oX828oNb9PSqsP6Vv7mBAhNe2evP6-XxfQVyER9WJMqrr-Ce2NR6dLUS8BXpQhUfkwhYzn3dUykccihIODLg4q_IR6PxQeWwt5NNoH15INOPckVFzFeoJW0IZzUx9pM_xg3WJh-fduhsObFDDkDYuo4MXbBA33gRiTkycIA2bShjXRFsaD5vIsg4YPK6FHyC9ZbcpaR2H8S0mdQ38VFWWkvSGgOu6RTuHz9OYNNxmiLW_VLPrhxUAGe85CvFCj6E_svk2kZ1sDVHb2bxUiexocsHzGM-wtdfdz0UgOrQBCWaai8ZNzR8MFA_mGglZazb6Zy2kH1uvu9N9S_yLirwc7oEWNTbVOD-NmKDEbkrHpxTyi-ukkoc3p1NtYG2quielT4llyXQdUWG90qGx6XndYgK1n6aXGyzGIWItkzulp7vuiLyibQ9QZy32KdW3-J5Ctt1SrPXlL9OkKC4UiDisPSohP8Hu4QMpZPz81uGsEGdgh0i9HMZdzWLSZOX6wuAITVk944wcbQ1QE4BQDL9q7G-u7s71QcwDZwlQDOwyyjOy_wRe1oMb8CMJsMmHqNKnGoQ_IVZW9k21Yq7Eo102kvsgca9j5j1_zDkYYpuVk6MfYv6KW79cth7LZAFAMMWDlgN5HbdkvC1Zyi3DJDpKrN9lGr5o01z8At9Ym8gujtEo3m3DG-iXjMcHucK11Cn0QDzZ2FmzzHaZlOamAfjgpyrkaEh9aMmkl503ltlgZ61-YFAKq0v0hw8lsMJaCQ6wuBZC8Zf4CGpAAi6e7RGqZ1shSNFZdyyGOc0lILwYacCn_jta1ajIcmdhpNoMWdJgrlN64_31TlfgPZdXtw4t8Q8svCvn8ZNGHaiswBG_HmCFZtPHQpj6kj_w8KsHIvkVJnB8yWgQozzdCSNTqtbJ6Q6qOdnofO7uCaDKygUICdqAYBklVkgBErp6bM5bg14QQ8u0lRX0TBT526nn2XxXm8--yPCXHzHO9EIdSu9LzsdkLLCzx5OyRCCdzkw71QvHRlhmLXalaKwv-RFe2YTb3EqGETNyMBkM6F14KTSNG1-uATPbcvBAfyptd1AyJonJFPBr4Gy1bMFJb5XOr2FBvMbhhGwkwuRnOk-OkWv1SwQsRdXxDiENtqSRvdtY2IM-Lc3tS7VOYLuxx2tp5yi2kIyVMXWyRs-UMV8ZctfLA8Bqse9VWg5ZdBNsp80Qw36k4PwkQByYBH-giJT1iyw95gtARn0ymtrOW2ybxDz82TvrG8nXPem6aPYB4kOt22IN-osKd8fNpgkEUw4Ui4HsjkavmxqBnVOlhIGkWZLsmPWD-ptTRi_AiDToLM-U3n0DvjBzdUpOqM95eW7fVQf3PugzAPOzuqj3HjIFJFGaoCsBv89qYB_Ip_y3gFdr50oujZo4qZ-19ZvzdC4I1jkBuUer5EzdKrpK_FXPfxmASFViuodX-_5Uz8AhULphIls0i8WiAHtPrvS9qsEfQ8i4l1z8FnGqi8d4d1cjHenWTDT7a5cM2DrUxfGqpulG7o6eqkl_QuJYTUw0NOc_nsonqlMiDMmj6Ke5r1TVMk3z2RWJ83PxAAgC-RfsbQcOR4yUP_-qL3mRrodmwTX8SupANHnAi-9SiZaEQESktL1nH7Aq-oVsHSAZ_UtsUV9wuCJCFnhHVCK_FsB_w9bUDAIjMTFSXEGXHKz5PWzEUkXvHKHU0udbhgTFNkoTNOKtn_VxynW_tph5X6H1Q-62nkoBuRfkImaqT9BSrhusfPnc4F1LzRVsNbDgSq9JUzxGhVXIXqIQSCdnBjk6HQnSnD9YDpZPmeLWcO3hlltvMr3F19TJwYReTL72qDW4PGqxJ4UTM-UpsaqNGwsmYVAyQpDiC61QjfVtRa9ONnHy5gB4kbXlkVh-zzsFIi2oIVa36ZJsYqDchnMTVMU6jiH05a94eb-hmYtWjdjT_sbCYU4u8tHYkxdT5mKqnjAvmJgEcVI08nQNcIQ54NFnhXc1OJTJPxCa77whqN5U97urOLkqi85VkZ1ijXWU2WV-Z7FWLE1I_RoIzRtD4WiKn0DKTdK9-cISU6a9DHfGnwaPXvPQtsa9N0zTsqkiOiR7QCbJmrRUYKVu5lEaFvuQHrfwrKy_6FnU97Y1I5tkv0fkgEKQjo8j46G0pGMxtZnYJUQRjCsVUpKr5new42ZViNVo-Vo_3MURZeD0y36Ff6FnQFsfd0z2CcwnM6vI1F2H2DYrwyo3Ax-mIQ-zH03YFuiYAdNk8ysZvLXZjoqvfcA3zxvrtpVF5liw_Uyiyx9hj9L9-aKb_C4heUPUXYW41hO3A2D5HshgKHj4ciQ2rRDPJaJ2UYtCyjOdttdEDy7glSXSklUzdgFmOzx8C7RsTPYKQMSwhMfdH_SZjf8ubVdHk1p98FiuETRrSpHQJ0fx_v804s175r-BDNJfqJBLqosy6dKxl_fV9AZOxa6CTjTOswc9ANUR2eenq55pnM41sfM6cRO8EybdVDsWjwxJe9IZX-8ZmEWu1pKN2S-rGzXXIFDO_l-zw6RP8oO3WX_Fgf-UW9gHHpST2Lh2rrizfoMFrB49IU2Nk0-9QVRb9i0QhKET8vzfhWb3SfQQ75to7JlICYGU8Yu2yCJ8QhCr-Y7n-hT118VMYHD3_AFoHP9UUIzQkc_9bloo3PSxH0lQmdtyhCY7xw1s1hp6MejgtKzkaBFwaMP0Y9hL8-6op28W7WY7wS-4gUHDn_HcMV3m_O_zUtvHcrudaSdqdj4GJc1-eTzs_lbB7zobN6wld2cbcrRjr3k3EwXNoNa6Veo5eWdRGiYWlBGRcsK3mVwS584gidBh8JvfJ-LqaQbamelk-ArJtB7OqPMnWuZWfNtSTTgeAjsV1_FzGIE3d461uTYF9hGCBoGTwVIiCyEPAL4z0XiR1iGgnJ83WKj9FaTfLtVx2NbFDRCifzHphsPfUu3L7V70zoih3DIZWgh8vIhiMzwkQeAbxGywo4UVE6Bgzxt3r3luAOpK25L18aMuMJn2JmLADIj67uhXSYMuVEopii0yc3XY1CuheQcUw1IY-71oRK6ifJYTh3UvzOtcDVB5OceOVULz2aTdFkv1s-wToIWexSzH2tphZ2VcmO-xqaqSokLEjR8xsJY10K2RWjP6qL_hoZoNyBawBPiMkDjLCOSuKkc3yBVJ",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e35f1b4081938bb3c69ee70b22fd",
+        "action": {
+          "query": "2025 generative AI advances 2025 new models GPT-5 o3 o4 OpenAI 2025 blog",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.reuters.com/legal/litigation/music-publishers-fend-off-anthropics-bid-dismiss-some-ai-copyright-claims-2025-10-06/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.businessinsider.com/anthropic-latest-ai-model-claude-sonnet-safety-test-evaluation-2025-10"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps"
+            },
+            {
+              "type": "url",
+              "url": "https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025"
+            },
+            {
+              "type": "url",
+              "url": "https://techcrunch.com/2025/02/24/anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want/"
+            },
+            {
+              "type": "url",
+              "url": "https://techcrunch.com/2025/04/05/meta-releases-llama-4-a-new-crop-of-flagship-ai-models/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.investing.com/news/stock-market-news/meta-delays-llama-4-ai-model-release-amid-development-challenges--the-information-93CH-3968615"
+            },
+            {
+              "type": "url",
+              "url": "https://www.cnbc.com/amp/2025/09/29/anthropic-claude-ai-sonnet-4-5.html"
+            },
+            {
+              "type": "url",
+              "url": "https://blog.google/products/gemini/gemini-app-updates-io-2025/"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e3619a2481938b883c5a9a75326c",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMYGL7hZpprLXHBfto24r2lm5YpcDOJtjQ1HQHsAfqYbFIe3BgjsIMWFAhrW718qMzJJfCcBUQqBGdqmUasBjwneea0QCmVqfBHJELZgUD2PTCnG1_VzDtHBYMr8P9h-dhewz6Np4_rmZklm4XmKwtFgzpCEziafPKd38S_Q3VrZANQrmWdAXlhd9z5HtmARZ_HdHOMq8eaRbjPB_yZIojf7Q4pOOYb8Mxwd1oMgAbmqXlYW9gY6gFsTeFRWXrq3tFqhS0UJoJz3qvz-2tW79aThcdx_i8k7Z_IsyG-eVm0_MJGQRDlcJ0WkatZBOXvcmMYJ7ivpWwh_72pyz0byL8PQjGl5QQXksDqM_iM2H8YMOG62m__zD77zc1HVzLTn90Ag2_otJqp6RIhMspqUQYPKGZeQZlVVlfGThniLhQC8MOiZYThMktoqvNpE0NUPR8OotDU8N1nc5-szaiPTeeS_mff1ogtLBJFbuYMIW8LoLqB531RCCDlPmaaO8nhfeJNuLQ2u0q1AdaCtC_2UNhFRfhwRxWPA0w90ocSkazAElXJ8rYNk-51rZPTtYRxFCx_0zlDRk0voS1B3CEArCDmsZPDzr0h6EzlElm-OQy8xxBH-B2Qhy88gvjj9vHkklR_-OjrPcsFWrlTCarNlHvTMA69gxWa2FahvwSQGXA8Rm3GV9AWzBPpKbBAhrz2eGjLX_YHuOx0cWTyODnA67Pomj51h2L9IcuL5Me-r2OwGfhYjk5r1wNu0JaTN0YhUCKmLuzpmPRgzbyUzzah6wyNjRusSKReuo5zeS4G-lHHrB7LZuztdaD4IEAnWCqMv_jkcNWyN8XiuIieefX22xjr9uFpU2xEj06x88g8EZ-pWe8segeh-4E9W6Osk5EVcjuzycJ3ORMC7_7S3WsXmZBy0Dn9yIOMt__7odQrowaNE1kofk_jQWxrrmmnajOeqHhQ0hx2B7HcfexHpw7Zsu8-LbXunOZAml1dSFffFz1OhSYSEVzpQfqqWxri8VrTPV_k8v0WZA9fYXIOBhOFrVzpLa8qHtuGlS41j9_uHsBQgqCw_RdOqvSXa_zMItT2q2qrjuk18h4ELBw-Ve86rbktVg6xZLnKFYOWpSb7u3X5YPBuSY2vptnJQjoS4MBzRHtLP9cySRgf1fnm0JZZRfadAu6oq-ZFajCx8Eb8YRPk_kbeiQxOTZAuBsbTIApGN-6aOvpMuLh_WHFpV79XALtqA==",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e3632b808193b4f978387d0e3602",
+        "action": {
+          "query": "Meta AI Llama 4 official announcement blog 2025 Maverick Scout Behemoth",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://x.ai/news/grok-3"
+            },
+            {
+              "type": "url",
+              "url": "https://x.com/i/grok/share/AOfRaol0uEEUTMmFywyzpChaq"
+            },
+            {
+              "type": "url",
+              "url": "https://openai.com/index/introducing-gpt-5//"
+            },
+            {
+              "type": "url",
+              "url": "https://help.openai.com/en/articles/9624314-model-release-notes/"
+            },
+            {
+              "type": "url",
+              "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes%3F.gz"
+            },
+            {
+              "type": "url",
+              "url": "https://twitter.com/i/grok/share/6W8KclfrFieCdEpS9Z9x393su"
+            },
+            {
+              "type": "url",
+              "url": "https://twitter.com/i/grok/share/TP9I2lpM3JTMyepAzc4ojvWPa"
+            },
+            {
+              "type": "url",
+              "url": "https://twitter.com/i/grok/share/Dnzdfep5mrEsMRnOi4lqhh5Hb"
+            },
+            {
+              "type": "url",
+              "url": "https://twitter.com/i/grok/share/QhFQLrNsj4Uy6ZPIK7roMl5Yh"
+            },
+            {
+              "type": "url",
+              "url": "https://help.openai.com/en/articles/9624314-model-release-notes%22"
+            },
+            {
+              "type": "url",
+              "url": "https://docs.mistral.ai/getting-started/models/models_overview/"
+            },
+            {
+              "type": "url",
+              "url": "https://twitter.com/i/grok/share/FgGbFLvx87Jd0uCD0W2e1CjpI"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e36789608193b12a6f496292f578",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMk3KJvKR-93hHvHlejDhVvL4Pjp38tP8GKBRVUNBzQTX6Dx0mdPEOVHyzCvZSm5urfg8hxTgSf-rOrgoeaFFl3hjldsr8MvjY8jYfN85xlms2hHLLRd5vya1b2WPSFeG3gDi8bRTAzW_IgJAqzU_oCPPQy9svktV8R4bL4aX2TNfrGGRoAPEr4zBcVOGyojHIpJDdInVvGpV0LuXsU5k2mVzhTPsmC_dIoH0ytLs3kjisApkXw99snmqWq5DV-Aw5otda8NE6-SHwd9LbxRGvFSFpmYaxImiKIbIpxWyj-hog8uKOCfbKAW6gr1TTiv50vtJ3cayRnVxufCj3VskZG0xIWcfm9amDIXpZG2Z5J9zM68QixRILT7a3GkUY8slHG24L-KQPDDUYBAMFphDtRVd2vLHAOuZHheln955n6fV1_4pZWl6zo3cqVKnWJXAKKI3QISjbxXltSza3fTNOVutMBFKH8K1tSJybdUsje9iKDEyyOBqGrEY_o2jdQmT-meTtvsmwG7rYiX2uO3KJKh5L9kOtvq2nvXfidQHYgR71q-F1QmL_ZvCOdha3JgFvnHzCZk7zmYy0i5scy9FeGqHMT77mfKRV8BKmI8HO01ulf2NqX-RXB0Ykp9IVY07T3xHZMXAgIjaZdCr772g7VskaLMWox6hYGoebtuefY3Oi2LJ-10tU6EotG7EgQjO_h6-UKDXwZVNo8atRp36kOxteYNlnVIZkk815ciBxsabN4qVcmYQczUZlG60nqksodvEyZULuIoh3HoCIenX_pMdSgXmOwTc0ehv5iW6obljK_tmSlrZ2jLwSA_lClzro9q5rwBFb9arOFb8spWoX6S7vakwDYzKmQb4gcNZwjfNruKobiZL0wPnWujLSDz7lTFHuX9j7M0St-rXETbrU3NiadME8TnLW0IqZorxDBHC6U5lUgaR_olC1uvkERKDh_jw-eoFXHN3svqU-NUAbVRiwxMmcQZvxE2cSFz7isw63CXDJZWuvQpBwIUrPzLIMSPMRpShJwbLVlzfwAsU_-PX8qPhUPwFXSFe218xIHi-frHb_V3lXtXdPewLcCRGCxl9PH9TTfmYRd77VPV0Xz3eLffofNwUJYztY02rT8xeVmiNv6RtJh2YUmAPkFFdBqDdmh-XTm9QGEPKJrgi2WFZC-ksd8feTcr7Rj4THYjAWUGEo2MMDNrzPSQ9-AWpSNvx3Ab6IlNF-RMVsoMMNLjTRezqy_hb4iXTSg1zJFqqEo17RlAOmMHJJgWkRFGUQhsV1AWn26_-014B7yjmVmqe4hHdpkgq9-smwCvflkXrWQdLqrphO-CQ8CQrzjujMXCztnr-urU4eVneJcOqSQ940lauHlplhDg-01r16vZY=",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e369fb90819389c591043fd4fc3b",
+        "action": {
+          "query": "OpenAI introduces GPT-5 August 2025 announcement",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps"
+            },
+            {
+              "type": "url",
+              "url": "https://m.economictimes.com/tech/artificial-intelligence/devday-2025-openai-launches-agent-kit-updates-codex-model/articleshow/124347547.cms"
+            },
+            {
+              "type": "url",
+              "url": "https://www.wired.com/story/sam-altman-says-the-gpt-5-haters-got-it-all-wrong"
+            },
+            {
+              "type": "url",
+              "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes%29%3A"
+            },
+            {
+              "type": "url",
+              "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes%3F.gz"
+            },
+            {
+              "type": "url",
+              "url": "https://help.openai.com/en/articles/9624314-model-release-notes/"
+            },
+            {
+              "type": "url",
+              "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes%23.eot"
+            },
+            {
+              "type": "url",
+              "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes%3F.apk"
+            },
+            {
+              "type": "url",
+              "url": "https://en.wikipedia.org/wiki/GPT-5"
+            },
+            {
+              "type": "url",
+              "url": "https://en.wikipedia.org/wiki/GPT-4.5"
+            },
+            {
+              "type": "url",
+              "url": "https://help.openai.com/en/articles/9624314-mo"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2508.13192"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e36e2fa08193879e338c95ef337e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMR6I0F2mFrH2ahM1_CocPBuOlMyMj9j72zxf2Gr-q1LxWGuIy5O9A-whf09D9MopjcNL228mURVWqgRn10856TvzEwjgcCtyJo7RgBclGXNuLB9rQR_tyQF1wEcZpJ_fVHnnYKbmw-PCTXxW74qD5tBXd_t970KY053Qc0nmjz_IADdrhS85pP6Oz18Gftly6Cnvr1H_3tVDQTAMCqx7bBBds3SpMc3HfoKDPSla6p40mO7YJ7a31v4ESqBwbI3K9bXxX2PeHsSpljhCOAeNSiIb_Fx1cEe3eAHFKs6DLacoqHpSN8EvbbKAtugj0LWWcfLvOXz1uNvlGoGOnonXeCZzRQMKjtjg_R1Nd6ENi-4Jk4RjFF08RnIIH8nHhVlizRSFJbpRUmku-WPKk36z8M1_GePgFHYfvGjorN5mGchPEWeTPcAWoICCNBizFDBwOmsEOehT2cm89U6PjlkE88h-7i9wgmxBpMMklcezLTHBEjK4Br2gtcG77ZaJPvmT7zgV21kTWFf--6vyly1O9yP_9SUO2fLw-rBo4wgqguIc4o88QQl-Q6Z3X8avApHZZoZSS44AodIEWVMspvrK1OGv-QCqMua3xaxUz-Pevt2Od9LiTp8TQ80Y3MFW2j6VulkoLv6R8eaJaAXgZNpaU9meYGejMGI7vQhTvegPnRRsPW9DSa9ZdjLKS1ZO8_QAshdqUYYs0wSS_Sjv7nwn4Uob9sjwcrO-U_yr0KGH_-ycFi_btTcqNOgRntC6j2sVgOAJq7u24MYb9BFSE2cWRFFDEUgj74c6UZyDt1B-OuWi4Pc12gGySiPmCGAI7MOis_ECG8c-hezpxfY6CfXfxd-bFIvflabEukIBvVNGmbESjy_RHE90rIIJfYlVPXp20ReXS-s-IwF3HnOZrXzm6eJKt5MFkkVzBmTh1akaCBDyXv9rAgHXZT-8v-FJ9N3i-8GPqf4x8OLluUb7lnK2GMf5X6gKVrytur20UDjHaeLj63o0FPUc27MnQqYnjzV9J_R4jCOZMp0zNloymDFIQLZ2GrK4J6xdRwqd2pnmo96hH2jmXlad0is3nqLBadNlPGmo6RUANe0u2kNC6fp6LibDICKUT3Mwcax4SM_PPmB_3Txe6_YqSwnj909EfNOew1ei7s5Ew3m8fa3QpN9xvziyIhkm7KGHL8CbrGycOSONPAyHS1hNLrmvRnDhGavwOF1_9qche5jdfuX3F2XW0x3WmOG8rP-zhcBl3edWSW9X4hjnQ4vI4UhvUH2xGZCrIRjQbsFVLO4vodSY4Bb1mCRspReWRAECryIM_SuBCrM1tyoU4wx3ggSf7GqL_mSWa6ea5wOUyDI_buCVpHz9gES-3UL-U9RMnTavYuGLpSly7wotmwd9zGqN1ziIhXlxJglV-Gee7pYeccvzWiPHRuyiNJgp3-4Mi6Rn1zs51H7Pb2d4_RFBNyulU7GM23pVcxk95nebjJeC9coKK6pLFoe9jtUJORnK_ka5hvnzUr20QogGC0xZVgwzva_3hCNakmH1qIpo6iWn38eQ3F0Z74Kuy0rqxF1DPi4Z4skoDdcJ5vrLqrwIIoWXDDzlFXWG0XCc3q7MDsxL7khyLdo9FQXGxmtoNmkZY7kpPLT-0fqiHBwxp3K9MFD-GAV-4NxR1Bane3ryBdjTpDw8_FcYq7nPDzTQghuoqZ_u6-np-ArI4lA-aJGrB4vXhyYGv1Gg15IA-qTGU18I8-R7VxmZgHE_wnPOf0xbyB8911Rszvz78TkJo5bbtCIO5h0biPGORv4PYj7wFudvJPlA14XOOJrrZveQI-S4rk_2k2sxnx8Spz1GNSQDoSct3SXWm82kNyGfxWOXPNw9DgwWeiuqn_S1s52_vKzD4cKr9Nf989gA2dLbLm1lGsZ__OqLFbZ76XgkqPYzUfof6L02WvG8EgJYcipuDd9vZ24ADj4SFZ8-lx8AwEkwI3puHknPZTqrf0QZqg_r3I23IKcGNcLYf78n4jLtBe6DS2DWoC1DuR5m4fyC0LY8Qaem4yClZo03E",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e372c11c81939a07b95aa3de3aab",
+        "action": {
+          "query": "Microsoft Build 2025 Copilot Agents GA 2025",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://developer.apple.com/wwdc25/index.html"
+            },
+            {
+              "type": "url",
+              "url": "https://developer.apple.com/wwdc25/"
+            },
+            {
+              "type": "url",
+              "url": "https://developer.apple.com/wwdc24/index.html"
+            },
+            {
+              "type": "url",
+              "url": "https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/"
+            },
+            {
+              "type": "url",
+              "url": "https://blogs.nvidia.com/blog/ces-2025-jensen-huang/"
+            },
+            {
+              "type": "url",
+              "url": "https://blogs.nvidia.com/blog/nvidia-keynote-at-gtc-2025-ai-news-live-updates/"
+            },
+            {
+              "type": "url",
+              "url": "https://blogs.microsoft.com/blog/2024/05/21/whats-next-microsoft-build-continues-the-evolution-and-expansion-of-ai-tools-for-developers/"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e377f4408193b4fbebe7b7cb89db",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMoBCMyGjwcmluOzUJ6veIuS54BHlFTXzF4ibbuXfjymsJPZ1ikTYhK9oIcrUalZjRxh66RyL9auyJkRWx4QpZN3taPW4ho2xsOqqpV6K-xs38NjNk87Yx0YMmTXcf8ds1Y9W-eQUuTAB-o-BtQ9Lji-B79j55TqO5-k10KIlZnWaj2TUP-9gqga1g-KMyZ09Sm_r6rFm-ai285CwiP358x2a7tzn1M-7gLW2s9dT2XLoOx1yXJcuEqUK-yW9m5r01CQjsoK9RnY6yKSRoxTqXD6Vs5AWlwBFBAen7VnVB8_nXOA4C7RwDhShXVCemp3ocOVrtCVp54YBwdsHc9On2M27SZA8gUqu1R0RHFZhMJqH80qmvcC3K5Z8CUtRQczGM1njrIIA9Wk_mqJqMsPr0k-jmXpkOwrdTqXFI9gLTvjG_U8S61Ur1vI1O_2AxkGwqjNKxhVInYM--wqTm56TTyBWKcelXeOQwMi7hZaXf8p0YUOdIOnjNGF5vpu0HBO1W3J8s9IVFIFwOnTtCP8NKWXUXjfaUG7wWnmFzZFVeuNYcRj8nzauFrFdLJysM_qKW_KJCV4boZyK1UEuU1brQGvSJb11VPO9ab_qfYTwVZpn_HhxtdAg5mPHszuiylp94hMhOlNG6jGWLfwvowbTbSDZN-wl8YW_595Uw8gysvgj5xAKwRjKuOl69URVHIlOsDNlLmFWTgAyaGqm1SBQo1Xq2VVXGJsC4yoY07g16y1U_TCMW1X5GMaKLywyuTKHmc5byOsmVcWXanQdUepQpWebdrQtJ-VpmOmCe_QsYd419tNZ-PfowCAjcio4YFwkRwugWUBgdgb4zPFQUszLapg4_xR-hKpWOZAbY0NZNcG4COR5NtnBrefouUCmxZmHq-aLHwgTCo2EP5shdDkvm8azEFgTdo532cV5i7KCnP2ypmq_C8gKT_xuY6ulHhPaf8lafN5t4DgV2SthGwhvm4Ql6nAVhL0mHo_YU_aVpZ_8fqRxioyyzs_vey4wSMcSJf0x_pt1sC5aSxMlyk2CsQQ==",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e378d6e88193bd38361e63c212ab",
+        "action": {
+          "query": "OpenAI Sora 2025 release availability general availability 2025",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://openai.com/research/index/release/"
+            },
+            {
+              "type": "url",
+              "url": "https://openai.com/index/sora-2//"
+            },
+            {
+              "type": "url",
+              "url": "https://openai.com/index/sora-2-system-card/"
+            },
+            {
+              "type": "url",
+              "url": "https://runwayml.com/news/runway-series-d-funding"
+            },
+            {
+              "type": "url",
+              "url": "https://runwayml.com/changelog"
+            },
+            {
+              "type": "url",
+              "url": "https://openai.com/index/launching-sora-responsibly"
+            },
+            {
+              "type": "url",
+              "url": "https://blog.google/technology/google-labs/video-image-generation-update-december-2024/"
+            },
+            {
+              "type": "url",
+              "url": "https://runwayml.com/news/scaling-our-in-house-research-infrastructure-with-aws"
+            },
+            {
+              "type": "url",
+              "url": "https://openai.com/blog/sora-is-here/"
+            },
+            {
+              "type": "url",
+              "url": "https://openai.com/index/sora-2/"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e380b6688193a14813dd9a6d99b9",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMuIxlPNBMpxscqvDh80P4TOumJHTTUlRyjqUpCjRKqSdilFaXLkkS02McOxUAFauWe_zfgUcmKfne0Z0ZUT6QVrDo1m377T5yqj65U2j1mYNlB8P_FSJplk6cQoHA70gyeinDFDXAjbv01DD6iyOiw7sqBlA7zSgDlYX3Ef_uYjyd6DeUPlbL82P_eD3C5j2W9SYBGTJE9X6LvCKvLR6mhd1dDE8PEegWuqEmmqZ8Gj4EPzR-nDogrnBaFgMNILSmSaszNZFRveAWGBsv0wiPE5rFVskmklUQobnM8eZKyjNRj7hdPDEm47exY-uODimE2a_CuFnkIGxzAEL7d9j6FEpkaRjsU3UNfbxRnJiz7e1LZw_ZbStlzzfxPHsvngqVofKYGcqGyrl6K0ceUNu8KBegTq7eZh_AEAOjFd2WvIdJ6QAtHr9vU5dK33s9pOvm0erNxb0Ec1lwXiqs1ZzYYAczQO4E0JfY_YxJEHnNXDY9yn52ZnGC86-AWZYGYf5_DNFTQ3zHamCZpo2Rp382vYrDnZ-3kFZyitPjqd5DWzVnNO3TzACAyC0_XQaRT_tlv0Z7DVouc5jzlAEMRFW9zayUztqWtYfS-qBsg7W6u3uKv5Fmz8wv5RPuNPNjNeYyOgHQXjA_Vu8JtE2TU7VpYc-R7XU9xMq0GBWslmt53JRdA3qyx1IvUh44C1xrvtuqBF5rIa5kS2jdlpuvEPf66fIUp9EalXuqphee4oI8TsHKV6wqK_nOvnA8E8T6uCXf7uixB9-BcT6tQsMKbZfKlb4xa3VJbQmZvofEP1rytniBZlHp8Vy8xnllZMPiF_Puvs7im-2wS9YQ-U3WUos_y02UIxcxMAqyn9DLYV1FwPuRj2swhFiwjH14DkVQTKEkUKIEPlc_8QFq9VvCbng_B8QzjklHry_crH_Y8ZFoIjTaXQn1BjCdRscsJPLO9oD1oH2K-m3c2vx4r_kf12t2nc_zfGSk9k4xwjVKZGVACJyjtebk6hHtDozlbkaQVBezrvD6WFf51FuQfU-6sw8OSA==",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e382293c8193af7055ac3899ce0f",
+        "action": {
+          "query": "Udio 2025 update v2 music generation 2025",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://stability.ai/api-pricing-update-25"
+            },
+            {
+              "type": "url",
+              "url": "https://stability.ai/news/stability-ai-and-arm-bring-on-device-generative-audio-to-smartphones"
+            },
+            {
+              "type": "url",
+              "url": "https://stability.ai/stable-audio/"
+            },
+            {
+              "type": "url",
+              "url": "https://stability.ai/"
+            },
+            {
+              "type": "url",
+              "url": "https://stability.ai/news/stability-ai-introduces-stable-audio-25-the-first-audio-model-built-for-enterprise-sound-production-at-scale"
+            },
+            {
+              "type": "url",
+              "url": "https://stability.ai/news/category/Product"
+            },
+            {
+              "type": "url",
+              "url": "https://stability.ai/news/stability-ai-and-arm-release-stable-audio-open-small-enabling-real-world-deployment-for-on-device-audio-control"
+            },
+            {
+              "type": "url",
+              "url": "https://stability.ai/news/stable-audio-using-ai-to-generate-music"
+            },
+            {
+              "type": "url",
+              "url": "https://stability.ai/news/stable-diffusion-v2-release"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e385b5188193aae20f607ffa9323",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMyipuHpQWSqTOeltMjCG9odO3wPC1QQuU5V8ExrkVLpxF4pUT6aWVuwDU9AwZ6azu012UkW-ULGOIn-2aZEvdkad0cTGmlx28dEiqhDhSZW2AUH01eFsWh2mZeI29_B9O4ngOJ4CAXZ6sUGZ2Hc6nGs3ZsU_IbCF-nwHrC_8KQFeTCjBpXDNSn1tdTSfkurC2xLUtviEnXlQQO_8onybNjWUnRrdpWy_drNfV-b6B69wP2Ed9hZIWXZuUF2706_b8itI4b5uL926FZOxvTohzlkDb5H3B5WPEUNgZYkhw9zLf8oJaWrd0q5E07r2Ybhk7W0j01TDti-U-rMjfSAylc7dIRVguUB-PIE0DFbBERgP6yYitOoii--Cub_v-G6bXqtru3KzhBQmxlR_IGczTqo6PQrW7QTzINaxtfAx2OAd8D2RNuIa-9r82IUCUaIDHMBxZRAwZ-eKwhLdEozJ0We5YMRvV7jJ_FrGnkbL2g-cibeNXlNiafBA3CS-a5BOJVoKdshTwQcAeA3wuqb5MQlBkdfntRHS8uxfvOmh1NS_o_yanaRkkltrH1fBqnaG0c_3uXoeFhqnGkWSlK42d0UwXU1XWHzNn2oIII55sw-RbuHmm2B2ojuZZXhtOblb1ULZONcKfN-uXC5QlKUa2x3i4C285KDi8N873UGOTy4iBhFoX_aSlSB6owiIknHNkCKxbyWGchc1nlCC2V0NJWa6ANQ63am-8KUNwbAqOQiGgSWu2a3nLdFB5P6hVN83blcRPEpU4OxWV6siuvlUs3VkJNAg0HWAVEo0x3ySovg8FCaNQH9aPZzgoqAV4o8I9Q33kQkNrp5OHcM6e-amQzdj30KrUeJbTtBZFMUqiI-BwD1gDlLZqU_bjoKOIcgb4nrU1CHUHgaev96wTY3jzJ4iV272NO-CGtLunE9cMPqMUG9RIWPwXFtCmJO5GPzvabTd3sQeA6zfmwa5TxaeJlblIx74DvgI_aeQMjx59CK3R-rYnciT_osYOAw9mHfdy1P3PwkWvsz9hAKPg7xtJZU7R2n0pVQOGZaivd-Yc7i5upfLDHTRm-mRC4KzIHdrDmFFu2YR4d63V2cytQdCZI-jfp1RY9L7gx0fKuQCopX8g2CAImpQ8-oX47cP_FcjH",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e38770a08193805e41f5dd08cfab",
+        "action": {
+          "query": "DeepSeek 2025 R2 or new reasoning model 2025",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://github.com/QwenLM/Qwen2.5"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2504.21801"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2503.06749"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2501.12948"
+            },
+            {
+              "type": "url",
+              "url": "https://huggingface.co/posts/clefourrier/909103574509502"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2406.11931"
+            },
+            {
+              "type": "url",
+              "url": "https://huggingface.co/collections/OpenEvals/archived-open-llm-leaderboard-2024-2025-67c1796926298572a216ebf5"
+            },
+            {
+              "type": "url",
+              "url": "https://huggingface.co/blog/leaderboard-upstage"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e38c67948193aabdef8b8e7f9fc2",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMlCsJoywZeiiIgslYX_IF8mKeocS6hMBuVz_mC2wvclztJIgvkPiw1LcRLFgeKFAyQ_MNO58c6GrO3K8Q3ABNRD-RIgrxoTcaRcWaY_I5tFy1BDa-KukQgQ9wZCsE0PNKvXbkFhbJqIRDe6OWYCrRyjT2aou4iDWl7WVYELZb6P8Mw01luDlQ42RdaENuCd2uw7lz0ykmDlJtZtZmR9g8iCXRdnSORPDEPzBJPX32jd5THdc6SnFvixAfiz4Yg-vEFBTuwbWq9SPF_II1f9Df75y0L12gCUUIxytUsdcMjeG4Lz8HetXK1Q9A_9DSP6nFT774cQ30LhPBShskh_sg6otYC90Ja1SvYfywn4do8k5UhD0QUWwZv9aSX5ETLTr4ZWcf3GuuEsbEwcwrySEVK_CrnB7Ljl0mjeCSTG5FLfa3c-hbtWJ1l2ztObv_nkQHMZFWdhdI1C50MFsM4ug6feMImPFUyWFquKb-iOHHJg5PAEzK-XPsvzeDsgEnQ6oa0OcQOPdHFYVrago2m-nbPb-be9y05_qU7o0htX_F9CVKLgg49fL2H2TnB0XIsAVh0hmYVUB3cubioea6Kck8MEP77An5RtdZarIjfBnKffN4MGwBcB3pdsfTW5n93xL14VnW8y55wb52T9DgxiNoDSaADg00Ux3nJcJd1GWPNu2oV9mNCQ6bTNnfYrvpkrass8fxT67uRBm7EmF-gO_G9CamGOuKhs0FO7mQRVNHYdrG3LHN1bzxQXNaifRl-HX9r0ybgYzpEJlAkrRXg0RRpujRHe7-NJUlq41iCBVmgEG0VFZ9bdab0qOyJRCxq6GeLOLaB2WsEyusItp1s-RILznTVU_rzAbFqoLNMN0BIbMpADK4xiglKeffqypez8-RuTrCulRR-1VuJtkUiG-JoiS0l6J5a7ISIMwOVTGDlsS3UJjYDdnTngaSRsnIN9El7in0hyZrr7CCjQFi5_FvRcdnTIEN8AAw8i6l31jKRGyQU9r1q5Sk8A-vrnLbjfx8por_FB61zI_ADzAluzbv3t0twE3-3jLlyPxY9vooAOmcPm7kx406lwquAvMXamTBgTQg3_Uivgc-d6Qf2fqBHFW6a9kV3vA9pSkITU-l382uuDtIdcs88WTVtrBkC7RO2LZLcy3an9YRHGlaiHIp0a-q2QfS64bnWcKP9w3cjiDhi8scC5VVsIiVl4P7FScTiOy0cTf3LKZPf-42SvMrNHF_ePe2TfJHEpFAZ8eFsM22C5B4o7pTDMtQ_h1TH2aAm70vLDiAVKBS8Oo2S1zpM5-3AdmHDcua2uuWUZdS5ikkE0LeO9RDbRjiyyQTmQPdzmZQC4zRfRy0aaYIxZZe__Xb7pISmunp9mz1RYC_Lj7AiTi18DJRQj9rJCuCB15sdx6iUQNGqWsleqEEeJ4MEGuxeb1nEYsQRaaTuaYgBZU=",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e38f3adc81938d1e276cf2063d81",
+        "action": {
+          "query": "Apple Intelligence expanded to EU 2025 availability",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.apple.com/newsroom/2025/02/apple-intelligence-expands-to-more-languages-and-regions-in-april/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.apple.com/li/newsroom/2025/03/apple-intelligence-features-expand-to-new-languages-and-regions-today/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.apple.com/newsroom/2025/09/new-apple-intelligence-features-are-available-today"
+            },
+            {
+              "type": "url",
+              "url": "https://www.apple.com/newsroom/2024/09/apple-intelligence-comes-to-iphone-ipad-and-mac-starting-next-month/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.apple.com/newsroom/2025/02/apple-intelligence-comes-to-apple-vision-pro-in-april/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.apple.com/newsroom/2025/09/new-versions-of-apples-software-platforms-are-available-today/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.apple.com/mz/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.apple.com/my/newsroom/2025/06/apple-services-deliver-powerful-features-and-intelligent-updates-to-users-this-fall/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.apple.com/hu/newsroom/2025/09/apple-today-released-new-apple-intelligence-features/"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e395bea48193b8c81cbaeef8a0f4",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORM-RNQ4qv3OcPzFo03ndL-rCrgmuNt1jxAarhk2zA10dO8Naf0smviCFmbuwvXkKcNbRkMryobWn3nMi5iDUzYlp0rf9uIybmuKa3fHRRzIqv94koYTNhoyciXsVVLx0HKKQ4ML6R6s4J3w4nC6gu1E-xRlWjVrCRkR-ad5VKfftd1gkUgqlojn0xZZFFOSO4sFlEy_23mt9AEPbMudb14EY07mhnx9YFe66-uX2r-aPf6OeO3t3eJIdsspWvFeBknkc03kGIXpj-BO7-2TRqOMX7nmidsClmhw5ufhOXEXHPIb-2s95iRawd6viRABCIh_E_lTtb_t44YMcRKT-xH4L_6bL8e-8VubGCcEzOxYEVGXJOzsHjS6X53TkA439gCtKm6iJnjd938LEfDqM0NrZUYu1CQvv1SjAeTaT6brHYWFFwCqmTPGaDDHfn1IuhAg4ykRkbMrBlHBFmfc6RqSvT1lTUCRoICsDD72aakBrOT6Z6yfOyzz3UGRVgavRbGuZB0KQz-lm0p91Oq8fcTtiVdS06V8lOa37naRaGz9lOhxJHqDjhNgqWAI6mY15hcXWwHTeTSlE9Cxtsu9aadaz2ts1ymmvb4Z8A4ruZz1M4BAKyaBJoTabFT_MrjYdCx1kAKGRS0OK0LsgLSTVhkpm9Kjj9K5X-_G23MzWntrx20TK4W0_ghyN4QcPEe8jYCUM-aj_ApIwN3MIvK6QJmSdCrY7fbfjj7mg1CWDbI2NKeeYnPncfbVYUZEE7Wz1LTZsVoLEOAOXzecS-2lPPidslc9C4MJbhnjenIkg5lDo6jHNdL5KRiLEqnBqAQBJixJQ4f91pXURnI9fEi4dQFncUyTzvOtOSkT-iIjl8Gb_am-XulS0VW-vnhhTaJZ5ZaQZmIOHlI7_6csGGpN4x8Y5SZArO-L9VIbLqTZib0z-A-LWwSrfKgeF0lvS8ve5sEU5SkgZzeigKtyerY63oqzLKbpWITkP7qcq2DFudvw2tac5aYMk1EUjnAK8wVPQXR_1IBdJu3-Gat-fkBmKKKcXcFxpjZl5XFlm9Er1cn-xb0qdQW_UyOsQCxSJTS9U-WANMcNq7zq2Pdj1nVAh73gVvYVN6lDMZPjFfO2hphqA9jJjtHGfz-GP6XQxlkzQh-EDEEd7BlO3Vesx_KfMCQxziObMNCSzRRt5fRLZJ6cp--X5cuRiVFtpioHnYnKbzWAlrwM1F5zoxNRd-FS2hVnqWrBwo_35rQJCPpToW0Bm_a95GmPlr-j93rmDqrKJSwuswdQVaLonqNAi5vH6CKIF9xdfhiyu6Z9Ulc5bEvrwJbavuFSHVwILfoeVXz2xI-4w8oliQ-mnVWUli-75Y5YsBpF7GvrrOtS02coFeP-4zCng68YUy8REaqoGHenMxvC5nG6ZJyNNxgVIhi1mQuYB9lereVVkgVKaqXkiMlFhX6bNnWOaXx2hIf6LMlrTxc2ApaFoe1acGSChsGDHflLg==",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e398af94819384e17186b65ef96a",
+        "action": {
+          "query": "EU AI Act timeline 2025 prohibitions apply when codes of practice GPAI obligations 2025 official",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+            },
+            {
+              "type": "url",
+              "url": "https://digital-strategy.ec.europa.eu/en/library/ai-office-invites-providers-sign-gpai-code-practice"
+            },
+            {
+              "type": "url",
+              "url": "https://digital-strategy.ec.europa.eu/fr/policies/ai-code-practice"
+            },
+            {
+              "type": "url",
+              "url": "https://digital-strategy.ec.europa.eu/en/news/general-purpose-ai-code-practice-now-available"
+            },
+            {
+              "type": "url",
+              "url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers"
+            },
+            {
+              "type": "url",
+              "url": "https://digital-strategy.ec.europa.eu/en/news/first-rules-artificial-intelligence-act-are-now-applicable"
+            },
+            {
+              "type": "url",
+              "url": "https://digital-strategy.ec.europa.eu/es/policies/ai-code-practice"
+            },
+            {
+              "type": "url",
+              "url": "https://digital-strategy.ec.europa.eu/en/news/commission-launches-consultation-develop-guidelines-and-code-practice-transparent-ai-systems"
+            },
+            {
+              "type": "url",
+              "url": "https://digital-strategy.ec.europa.eu/fr/policies/regulatory-framework-ai"
+            },
+            {
+              "type": "url",
+              "url": "https://digital-strategy.ec.europa.eu/pt/policies/ai-code-practice"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e39e435c8193a7dc83dd1a600968",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMaR85WDzUl0Zrl2aV0CqFc0C_5Isg-VBabWOWDsljgo3AaaVwE3fbvkCLSsx3KirlI1Gxp4YMOE-txmTSEkfYQGDOZ87g-JjPS5CXt5CLi6BN4E3srFLHX3XMv9FAUxn_HiOCLHgGUqeiFrM8-vOPfGwKuuQivHZxgUK990oWTL5p5IL-p5z6AxgVX8KDP9b-Vjrp3Ee_NpLcgVenmU3b5VSlOrv3hgjhGChAeFKdursLSjVkKUBb241PJNsGOQrextCMiOIBLit3aUhKhTXwZyNc3P6lZhKz1DBwH73141v8lKe2PtyWLmAa4444pIG7M4lOS9oXQEHA_1GG8hABlELaZsVFLsdtZEVmmtWnJseGDbp2GZB8A_KWdsOZQW3Ap7cSSoAJx3SskxtnAAWvNbV_IfA_Mp8Q7KpeAzDkQhnjkIPgEkpvaUMsdZOyUYhBs3nJZPopZ3zihGlxVG9S_z3Yp2uDzYyQXrnBhTJ7qcPPMGPSGYS_xgVCU7q_TJrqZKFuE7fr_wGi9KktQCgK7PMMJVXQd4Jt5nOvncMHI1kL6Tt9Fx6rmlfJFyRbTnYBh88e1rRniDXVmMe4_nACdQQToT_iT7_K-mAWGQBGnH_-xh4DSDPYFUOK6uYx5nzw51hF4izU2u-YFHrRKXqxw8oOlbDPjsObDcGG77awyALK6UURmxsdk7xdNwe_JBH4PBgZbiEM1tGgdjNyt8gsSfhL3B2xh_6WUec7rUj131B00IgBWVg_lVKEPvBuUPsBx_ZSANUOGxUMEPQr_W7Mx4S1ypOpMJRToTf7CYzRDls0P-hPTGVal-LlDzAVThsqJGuyEod8JKomgpZExRm4X4R67dCEhutKe3spjm8rzRrv565PJ1KezS46xV_dcvwyzr6gdolFHhXXn7g75b40iA==",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e39ef5e48193a5e6a051c0140f8d",
+        "action": {
+          "query": "UK AI Safety Institute 2025 evaluations report models assessed 2025",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/work/principles-for-safeguard-evaluation"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/publications/agentharm-a-benchmark-for-measuring-harmfulness-of-llm-agents"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/research/security-challenges-in-ai-agent-deployment-insights-from-a-large-scale-public-competition"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/blog/inspect-evals"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/work/pre-deployment-evaluation-of-anthropics-upgraded-claude-3-5-sonnet"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/work/advanced-ai-evaluations-may-update"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/work/fourth-progress-report"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/publications/agentharm-a-benchmark-for-measuring-harmfulness-of-ai-agents"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/publications/model-tampering-attacks-enable-more-rigorous-evaluations-of-llm-capabilities"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/work/evals-bounty"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/about"
+            },
+            {
+              "type": "url",
+              "url": "https://www.aisi.gov.uk/work/safety-cases-at-aisi"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e3a3ce7081938019ce6755b2ea7f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMjdmz36JzURzcKM_eih_DS1ffwY3BYeSISl9e1TZ-ygqy2RWTjywkXhAp4WhI0dbrY2yiPikm8WhHfJyzoANnHbyDURSeWsoEYmrHa9gKtuOYvyjXnVg1ctji74vMsRsKSmGK289TKBSZS88Ah3XgFrmNliHLKi1kYsNU3l0Pi43AUO1g4on_MEJw8KorXwOO5uDUx-7jKD3JlbzQoq1o8a2t0lP6l_eNBPpH2sxK0XqYzxzF5J_dYSGJM495dIkWO_oiJsm4UKMRrwGVU4pI16QAqA9RkOkUic077LPg2Pnzbrbw-LpDEk68hnNxHqQ9CXzLFzTTL3MgUp07Wc3oiaTPeZ1hGy2dgOC41aJ7UiP3YKBZgD0mode45opRaOmlkqrTcAmv3NcvZx6p5pxCaLm91F-FG6mm3DdEbc1byCTc8XV-_j5JgSE6o8iVEeDfg0TLKlXrURvz5r2yFk6oHqEz8YhLDsipr_fPsW6Cqx-EtQ6l7gAHgxei9pvM7bfiuMuTj6Nu0Wfl5g7FQvoZLtaxN0i_KyFV91ljg4Tx2Yv33LYlbzGp-D8v1EtT_UrwzGLIv7ynQMJ36thZlvcaqVx10DafQl7-7-c7059sRJxJxod8tdftMGDByMA4PyWnWdCHZ_RfCsjB2ROg0Iax-skPwRx1g1sFH4f2MO1CsR1twNsF7cnMZ_xoX1g1fAkdsqqVg1I981OuhVOzb777nIUldAxgCDHixRdZhUiEiZ6iUTTDkWNXtPeoeRzxtBqkpL7A_3cmpj_jDzouEVoq6Ns5_z2nrDfQ0qnVCnB62xJvO-72tVIRB22Ghy_8KsJC-fXkZj9XoTwq6wLu0iP1Ns6-ofVLTcBeAE-JDfnimIELYFGHr7ZGco96EC_v_WdMJMDO-5uqC3BzpZ0Osx5G6zw6YkIU58QJ2LonqzDhGXI=",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e3a4a0488193897a4f1235aebccf",
+        "action": {
+          "query": "NIST GenAI 2025 update Generative AI Public Working Group 2025 benchmarks",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.nist.gov/publications/nist-genai-pilot-overview-text-text-evaluation-results"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nist.gov/aisi/aisic-working-groups"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nist.gov/news-events/news/2025/03/nist-trustworthy-and-responsible-ai-report-adversarial-machine-learning"
+            },
+            {
+              "type": "url",
+              "url": "https://www-test.ct.nist.gov/publications/nist-genai-pilot-overview-text-text-evaluation-results"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nist.gov/news-events/news/2025/04/nist-updates-privacy-framework-tying-it-recent-cybersecurity-guidelines"
+            },
+            {
+              "type": "url",
+              "url": "https://ai-challenges.nist.gov/t2t-2025"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nist.gov/news-events/news/2025/06/proposed-nice-framework-updates-public-comment-cybercrime-investigation-and"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nist.gov/publications/2025-nist-genai-text-challenge-evaluation-plan"
+            },
+            {
+              "type": "url",
+              "url": "https://www.nist.gov/artificial-intelligence/executive-order-safe-secure-and-trustworthy-artificial-intelligence-1"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e3a8dd6481939dfdc6678982d8d7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMsAX8zcjw1MNK6ONMrcT_NbgdLdeQdjtEEa9wlIifbZFa6v4Gk9EJ_0RgTtQCkQx5XecEoszGQQUKabCeBT288vE7Hn3HfmKnAuBzuaxJA5Yk23-aBVIsNavxtrbGi5QTz_zW94OCgpfzTID6I4zgIqLM7R08cc-jFe1bAv_RZCDyR-APimrAVyFi3EMkfIqkRYCkEHXcJxU8e5s7VyastDy5n6CMW0y0vjy1XRiN3HKNOa9gNbOD35LT-P3Tvd7mblv2g8cF-QaRIkcQ6rRvt83pZaOIw6xVrct5KsqSFq6ZEuV_QYigT9LT3Po_IfIE5BYCAMBP3geWAmvWEkYyLunKIJW3pr14M-Et239cNbeiqrTzgMAkQhw13NrfGv2-riHvelVmlRAWEQQsTgHioPCoJ-Ula52SCtSN4YvkU3txUZK3iHrLVUbVepqeqjYguXvfWE6fdUbRJnW26lBJJyFhzovDk1SpMrr5u7kbqGFbOySBlKrzDLPl_rLZtkP5CIcyfMUj1M_u_Eyj-e9GcwQ2AkzCX4xf7OSpRJmsBxa9UTbn0A73QMbJ_da1gVIzBxipF8mq9kx-jrrlQiqB4G_Lv6guoSSJkm5e4Pt4A02T0-aD9eP3jYO8Ghv8QamHFyBAdekVVbH66WkHnLOxLwstWcVkvOJeFTgqvD6X2yQl-_MrCBQ9AtJJWb51pY5-u8kHsBmwfZHoCDRA4G6kJFJ5X-YsEYIxl8x82SS3WGGOCn0wAq4oMAnTPOPQ11Q4S7PG1XksHQFIzV7Ps6-Cr6f8-tCXgxbY2Lb7dHWTVY56AiY-maplzt-C8HE4y-ZfOAR2NizxGbhfl7tDKo8kG5GEkq10q_0ziofn1Cs5l58dHztTIDSX7T4T5Nl8cWi4iDwhBr2UtcXYTkpznSHCL-TeOONYykF3ogTwa93Zb5NmezSdYdUxMRF1khpIdzvp00X8jFmsLL3vEExY3Gx7eij7hOhqcRrvkLbzTQGTFJ2QWCFcTSSJ2J5TLcFlHqcOYgihWrdO_JgGu9uexowWLdceROOEtCTkTuYoFgub1yF4DxtPV4PvBKyZ9_WmNmpB",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e3aa0b588193a39ef45e6ff063da",
+        "action": {
+          "query": "California AI safety law 2025 reporting frontier models SB 1047 status 2025",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.vox.com/future-perfect/461340/sb53-california-ai-bill-catastrophic-risk-explained"
+            },
+            {
+              "type": "url",
+              "url": "https://www.itpro.com/business/policy-and-legislation/california-ai-safety-law-signed-what-it-means"
+            },
+            {
+              "type": "url",
+              "url": "https://leg.colorado.gov/bills/sb25b-004"
+            },
+            {
+              "type": "url",
+              "url": "https://www.mondaq.com/unitedstates/new-technology/1680530/colorados-ai-act-implementation-delayed"
+            },
+            {
+              "type": "url",
+              "url": "https://www.mvalaw.com/data-points/colorados-ai-act-implementation-delayed"
+            },
+            {
+              "type": "url",
+              "url": "https://www.axios.com/local/denver/2025/09/15/denver-colorado-ai-usage-tech-talent"
+            },
+            {
+              "type": "url",
+              "url": "https://www.pymnts.com/artificial-intelligence-2/2025/colorado-delays-ai-act-to-june-2026-businesses-get-breathing-room/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.cpr.org/2025/08/25/colorado-ai-regulation-deal-fails-delay-approved//"
+            },
+            {
+              "type": "url",
+              "url": "https://www.hunton.com/privacy-and-information-security-law/enforcement-of-colorado-ai-act-delayed-until-june-2026"
+            },
+            {
+              "type": "url",
+              "url": "https://natlawreview.com/article/colorado-legislature-passes-five-month-delay-colorados-ai-act"
+            },
+            {
+              "type": "url",
+              "url": "https://www.coloradopolitics.com/2025/08/21/pause-new-law-on-artificial-intelligence-colorado-mayors-urge-lawmakers/"
+            },
+            {
+              "type": "url",
+              "url": "https://natlawreview.com/article/colorado-delays-comprehensive-ai-law-further-changes-anticipated"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e3ad7e508193920cf578adc4aaf7",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMkFo1-miCxP0YUCF2j6BeYZbKDAZrXRVIklPfD4u6CxChlKjTcHW_7cwGaBYx73mS7z2QsoFQRQRVdICMlhSYfvXct06SyH6Iw--M0vRiGt4nMLhzUiHwz295mBcFy3SozpET3enOY9dJA0GbY-ArfRyQ0ZzCDwV3vUufB3Lns8uRTYfR0BtRYdt06yChTYl7-nYSj_g5uFAjLEGy0tDVfe3xlv7yEc3KtbnA-2C9ugdZW__4ff4RmijTg_z2JlFSi_PdnEily_nnT7t1xoMvrzQf-ArubXoz3AxvJiVZXPZyGd7xrHnr0BYL8qAKJRUSNgfcQR2Ha5kbGXJwNrsxTlX4K8j_-VNPpO7Q-MI8-3tPTWlLVEJwFb9LhF48Q7LFVm00WE2SyRuLe71ANuajsuNj4OZ9-TDwDUJ77efFJsc6Ml5SWCZvcuhNOZhiSuri7WQZ2Y_p6i7zQGMHV0n-gN68wtFL8a-EvpwEQP_EFis_xg8AWF1nRKWguFfFuQ5UzgJottfSsu5L1ACVt3cPIQ0SkkQkUTzxsVgGic2rVEFP9gOxON8Szzx6-1nBR65uZL6QWRsisEYXrUEGlwdknLCrCSPHBKq51VwvyQFbx3NlJLZhDNv27mlex6KdHgpoyfJ32w_vsJKXVaQkxeGaEb8wcYd5uF1kJaOcFa1Nr5adA3Buw4sEhXslmR2YjkdliRfz_tTPEkjgO3sIza3-JN5YpTLbWnmMe4AqOaeWipcx-Unze-qcDuyJvT1Z58wgos5HWtNBLdzTj5bh2dnT55gUmKsqLl5ildNLu7evGZiaJszaPlzmNmDc35umNqbfjSwEOvXBP3Rg7I8pClKWdsuML86T8z80aH8WI0v0X9O8j38071O6lkC6LgqCfrCMEYszPfud4wg0whwYU0t4nwIbKRccX6MVLZ1VEjHvsPB23vsmdUuJNBvHxh3rBkNRl5a7vvltTl0ZyhV3d5gZm5OwyfedUvAdmReIDzLFoSvvLFVSvsxxwkKJ84fjpGHY4HHjIKBUIVxKDil6d0o1p4et08-pSkDS3nGTTs5Wu7BIWWkybgs_XuLTME7aL3oW",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e3ae96848193b60f90cbc04db7a2",
+        "action": {
+          "query": "California SB 53 2025 text Transparency in Frontier Artificial Intelligence Act",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gov.ca.gov/2025/08/07/governor-newsom-partners-with-worlds-leading-tech-companies-to-prepare-californians-for-ai-future/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gov.ca.gov/2025/04/29/governor-newsom-deploys-first-in-the-nation-genai-technologies-to-improve-efficiency-in-state-government/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gov.ca.gov/2024/09/17/governor-newsom-signs-bills-to-protect-digital-likeness-of-performers/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gov.ca.gov/2024/09/29/governor-newsom-announces-new-initiatives-to-advance-safe-and-responsible-ai-protect-californians/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.gov.ca.gov/2025/10/03/governor-newsom-signs-legislation-to-advance-californias-position-as-the-epicenter-of-global-innovation/"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e3b1e258819392217b9361d2518e",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMo6B-N-4mQTHllfP2a-YTCw6A4uXUWiLMXhOn8OCdBUqDv08G8iRU72LV7wZkNeD8v01f99wgxi1xMlzChSL7C4eV_ISNrtBD0xtejurkwoeg2iPoFpIqge4UBA68HiN-z5av47Ift5wfketKEH8piX31SvW-AVMqDF1nulaB-HRABYvkx2nrqrSyfKZ9cZKdCihxqyU85U_uloZebO2VHMPaceypKJNeG4-5cOiSGVVowxRwrPuqvx9qOt_RkwCdAp8aXW3iNE4clMSkScoLBWy-ve1S_6bgO0jvM-Yctg41tywGZfHVEUflak7dcj5Iz5E6iT8XFas28gwlkNtSTIk-7ZGn1MYoXFshQQ7BjRJjFnK89J_AsbGALxsKyzFa3dt_o6AszKABBOK_pJQFymaZRBIzFP0fftm2o5gXMsgYGSs7LBR3PT-rpyi9rwsRnErV6OzKFyvip17JXmUxCaZzySsh9jlvYMDNF1CNLZaBdKHI6t98lIPABLWrBAEKDrmBKa-Q1WSOwLGZQFBnYrIA_Q2uNeJ7w7AQf4LOqnfXvCyBFkQCyZa9aXjSws67bQXgJWzcuxFtjTPBTgo1crmrMM67W6-9iebNnVqOOu-BGF4gPnW4NzGySoH7rT0t3Mus8tsgWv5yw7l-NkYLr9q1qbEMzhVi2dXC0y2yw2dZNWG1_W88ipuxlTKP8M7z0XAf_aP_SzduhR3t3yDCxFmrjIgR_a1r0V76X5aC6Avwmnce_e8DE5gAxLdbYK8YIvjP6kl8_pZns4fNXhwf0Nirns6SjmFbu_tl-FKAWDS1mAKZm8Hshr-08KfT36gFbY3GQDV7AGbWDGhN2oU0JnBIbczfLXQYq28v1uIxIVp3aGIXMMEfxzF8VZEc1STsJLp3B8GEkrQW56xQqoExu50pGBMNqLbiEmQD1iwDP1i7gKENyZei1aGAymlWlWDctSLmWn3yek9vxBj758O1UvE0Ua8MvSDeqX4peSlOLnGDNPImpD18HYdF5icIBajLH_Gedu1KhmORWhKL0jKoU1VIhaW3dLxiAzGPkzfHXJUmTelYvbdeER5f5_4vlhfaS5zYJ3OVAxiNPy6B6Fv5cVNScnrmNTBoxB0oyMVylPGXIz2Sfn7bzXaUgZ00OOE3iVGkkFX_mHAr8LP8Vm4QYqDh_eDkQZmIGmdEIr1kt_AJRo6_1YCb67TyhCUgovyY3bKOdV6Sb4y-Go8MNz0KuRKbMJ3U3wAUsUBM_j-eaffhINWK5U08OZ4pmQtf8TeA",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e3b43e408193a3a006492ecf44a6",
+        "action": {
+          "query": "SWE-bench 2025 leaderboard o3 state of the art",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2506.09289"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2505.19623"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2505.24876"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2504.08703"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2504.08703v2"
+            },
+            {
+              "type": "url",
+              "url": "https://www.arxiv.org/html/2310.06770"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2310.06770"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2504.02605"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/abs/2310.06770v2"
+            },
+            {
+              "type": "url",
+              "url": "https://web3.arxiv.org/abs/2310.06770"
+            },
+            {
+              "type": "url",
+              "url": "https://arxiv.org/html/2504.08703"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e3b71fbc8193a8757281e22a3f13",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMfMamaAueHFaIL3Czfxqt8DFatwkMU7E1ikT0cOHrbG7tvr2T23GfBTTJBczNKuaUdCz0twJk5DG2gfKC9D3jXr7XLbUSh2xtfp0Gls7BxTYfnXT7I_odxV1T-O9gbZZkf3e3eednlf3nH0jOFRhX8BiH8lyAc-SbHK13nifV3b55ZyUDTT9u2-G_1ywQl8yjaivfJMqs4J6C5ax2I-1BEmqP9-xe8g1OeuM4v0k_wPO7fSpHbFEFmdMTDGSXN6OQPTGntV4g9G_YJCgI8aSATIjNxp95QVxBR_Zc4WxlyrAZ40wcnR8NkxMh7sB_ekqQfFhI1vjxYi39kQ7flJz4GQlGh3nJRHj6aK1rs_XbXAz9v27o6hfo073aJu1tXuZBgrvhQhy2fp74aWzOfX_c9GG_MnX4BQsr073bFtpt5LZMr6-C0z3DGmIVbFsM_GreYWrBCsDy7yn9d00_FI-q9CxIpyixMG7jY77jKYYjdS6omb5wwdO-kaEhJ0m1pZr6DoENI6yGo9ge2lgKBnXUUbgTL6QKnKwXfcvQtuzACN0v4iD-PNYU3HZt1yNLcnYyEu27oZuXzDT4gV6RtrSXn5_hUdaECsmqEOHAv_cI1ZS2Jcz66B0QSzRNaNej6lK-Pg45hRwJssjXC99RFWBht24-KMpEtofJmJXizkMY-u2HQCFc1uR7fJcJmcSRbzSNgEFkKBiQgfPx2_IOlW8_Ybe3UXYBJQppADqiODtQVwLex9IAjYuFClzwDAQ0OwUMaS5P0-LzAdUMVwKSOCWQasgFTOzSjJorh8m1F7szH4B8SJlLltcpsZm8UHc-ElvOLtZwf12bFcAsDKbTrmewsLRal9zAsXRSoExKnT3IqsKHZsA2Win67ksCulTHf_6mgJpHHc6R3jBpyAJXCo54DMeRaXt3KAaEIFhWepy8i_Ui_oOlH3yWiX3XUeTKMWQp02PIYu5SlVC4nFrItIyndmYPy8uAgH7p7mxI94BxvxwDjuKugb-RuGsjwYPnr8UsskqcthTw2nCEclXV-HrlACYVJ85Nwh6cFGNDN89jFp2p02_6N5tHKXqtoa4lQETQWqXjh5giaknTDfLDWlE1YVghM_E6as9Upac-tEmK0Z4KM8GwDYiq7AKsdffxX1Rt56NNybWHKx15DQIFr9siRw1Qsnrmr6H3OExLTWagKgt8Ovh5qtM6_JzVvtfCFvlBno6gzJg3IaJlAqFpYyTED79N2wb098Hl6BeE6EOG870jzwM21jyEM8WRQQIVtv8TO-5TnIQ_4FUj2v8J8VHKT8uabybK4f1nTXSHHbaaLo9F_WCkR4NTP_ANDYnN2GNueX8MeoB1dxSajNCcS_Wc5EsPZFKRUmw4SvSU5Qraet_8AnKkbufaqZQnqhTPMF_ujYccIitJ7TyHw_vcYUpMj7EAUSIptDE_wpEr6lZhPid40fukHCOPHwfqkdmPoWxbQRFcbNGTn0-BLXd-v_lz40ZVUgZc9z9vozrtBISCs7Qsq7M0ILQVQ2LWsD1ChUExbP3oktzSPmOgexfPwxVGog==",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e3bb01b4819383ae15f7c721c4c5",
+        "action": {
+          "query": "Databricks 2025 DBRX 2 announcement",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-launches-dbrx-new-standard-efficient-open-source-models"
+            },
+            {
+              "type": "url",
+              "url": "https://www.snowflake.com/en/news/press-releases/snowflake-launches-arctic-the-most-open-enterprise-grade-large-language-model-2/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm"
+            },
+            {
+              "type": "url",
+              "url": "https://www.snowflake.com/en/engineering-blog/snowflake-arctic-embed-2-multilingual/"
+            },
+            {
+              "type": "url",
+              "url": "https://www.databricks.com/blog/announcing-dbrx-new-standard-efficient-open-source-customizable-llms"
+            },
+            {
+              "type": "url",
+              "url": "https://www.databricks.com/blog/whats-new-databricks-sql-february-2025"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e3c46ca081938a172f120f2058ff",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORML504BDH0M3A046yzD2y--hQ7qaurdPay-malk8BlsakY_tOp7puP4sjA9iXBrHma-Al_PSl3l_fPRlvnbwxGaSTyGBP6iLKJoqgMjlQo977bPyt-2v7gYJ5PayTX7JkAoD2bDxUDwX7TnHb96TYytkfYWWv6HE8WmM5q1PAu5GZAPGET19wNALnbd5Mmzk6P6CC7JyWbokY7Lp2cCKQYXbNtsDOzP5i6z2dRcGPeHXdpEdvUM-qFUgt4YyfJ13j4BBYGZfF0JTQ-USZJEX20AsQx6kFVHyuDgpxxZgBDgA6VCtCmUP9BQce3lt-NYp0vZ_aCsh3dnBfk1hvHx5dFkC7xBWajhjorWTqiqbWHhnzbLeml0moBxmLbPt4M4XMck_nlmVfwTwlFjxVxcYdNcvV9MnAYPgdXJYVpfYER6ytFd6NS32rc6xMC_Uihw3v3WHTB-k7xqFsuCGHOeYlyisXLJlE96c_tn-GvjfDeqt7Bi3L11Qx1xpzMGDrGdRv2dzOEO_9Qe8-f1RC7PwQmjSM2sxpAr5ZGFpn2qsM938B4j43UgN-IsICVG8xBU3BdABnabg_XBpC_oUynNTVghGLxGEkB9bYSIgbBowFxRjjgq6xzl-NDYrIZn2S1ET2-xPqGPFwIopF7vqvP3erP-gL6QDb53jXet4yACtpc-jmhVeLljezsB5lfneJlc070gWatEDDjk576mqvRBNyU5fHLmTsMWbxsdqkgAAxjN8M7H29CwWfHXeaePVebe0QcmERRI4ThXhiEtO0WLSMQIZWXt4adxrxbNlvZKKevaZIJEmYGf4B0YB6HVFst_OVts73D9SZ3QkcvpwZWRqGXu2NsvA0vdGvlVXGFby3NHp88cd6A5Lzcf9QlUTqcfzPwgG5XwlyqW-AzT9GIJHuG8agTnNwaWI9vK9QAhrovrCJLvbdcZetewputVW1gln4IhAjdiZMMdkvAHdPRNNhiLxlAr8sGMON970AjIx3OTMbXi6JrEsqjW1qEPlGTkCTM2HHoSYQMHHr6uFt6bPgqW9ao_ZUuH0vxBZyjNOeOfEaBJXZ5OyXdHRny85YogDCEfciHI17yZXtbp-2zOmHED4K3x1I3dmDExBI1stHb9nVjSLcMaFvJUiYGrPIzG223",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e3c5c258819388276d51f894f6a5",
+        "action": {
+          "query": "Midjourney v7 2025 release",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://blog.adobe.com/en/publish/2025/03/18/adobes-approach-customer-choice-in-ai-models"
+            },
+            {
+              "type": "url",
+              "url": "https://news.adobe.com/news//2025/04/adobe-revolutionizes-ai-assisted-creativity-firefly"
+            },
+            {
+              "type": "url",
+              "url": "https://news.adobe.com/news/2025/06/adobe-firefly-revolutionizes-creative-ideation-new-mobile-app"
+            },
+            {
+              "type": "url",
+              "url": "https://blog.adobe.com/en/publish/2025/08/26/adobe-firefly-adobe-express-now-feature-googles-gemini-flash-image-model"
+            },
+            {
+              "type": "url",
+              "url": "https://blog.adobe.com/en/publish/2025/04/24/adobe-firefly-next-evolution-creative-ai-is-here"
+            },
+            {
+              "type": "url",
+              "url": "https://news.adobe.com/news/news-details/2024/adobe-introduces-firefly-image-3-foundation-model-to-take-creative-exploration-and-ideation-to-new-heights"
+            },
+            {
+              "type": "url",
+              "url": "https://news.adobe.com/news/2025/02/firefly-web-app-commercially-safe"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e3c922388193ab1cc1ac1f34f37f",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMqBVDIkRNj7Y4F3FV19x4Rjq2Z_oXYGiJ39v_tiPntCzFfVq-beT6kKhVP0ZVL-kIwhfB-2H4oG0PanBFs_bLM12PqpUu7Xc8p61Jy2HwuI1veqXRviSVvWRTPawOIfw3SZFvS-LMjCk4Z0690rwnbVrZqT6flhbBX20Cqwd8Kj-aZWFhRb5EyUPQP5B40tkUESuq5SU5J5Z8qn-c-5rrd6b9EYOaUBRS7OmauP1FwQVe3njyi3K-LfIrO-5lj6KidmsQrUdnyJ8PNPlDGSof58NePnHcAisD_G5LS6lWHJNMbQj5xWPVUB6Vwp5L6skNRbCVWRECyDQlOGPgppa-n-n2EaRPGXs7qcNvmkRvM2qH-__6MvahRlRRGu2WdYAVRG7yWR3Mxb76IVIvRD0xsMp-KjYYZDRWeFv_2SmQ3QPzjh8ZZgQPdjFJ33EypYkQ2Nb--914CwlZCg1HhGt9IG3czufVM_SaCKU1sTEFCyPsvdHijzMF0cqMT5NQUzkeDwtWXJ0UoFHblUjg7KGCJVzcSzMWEuGrb_0qiEFB7U-8u6uCs0_p_1zCwCeDSwKlk5PhDzD6yTK3vR7nBT4JQGnU3-1HXFQZh0z42PXQeVswQenHgWRJp3k-V1SUmTjQgiM854_HA1aVocVZREETu2bwroOrUdN1Si4ootBClryNe4lDv_XqRhXlQmyxSd7NURzAgZVCT3JauYHTgRSqwNXrMn4hWHd2ZBL7zkUHQXAB3tfU5Bqc7h7OCSzav93JOCF4AGofSKekwBbSAWy3PaA4_-eVsdikNgS223p1QOfUqXEyjGsNdN1ekUQk_kIXIuCmEmWQYFrOEcLrWN5cis5YhK1kLdSEACWJeb7MY1ADUjJnIsPW0jZLWtRq7z7Sk-icis-zQ0FTR06h4Y4e8v4Qp1LIAla1daPM_QQDJ4u98Qm0Qc5l3kMPK4EOq5AVLQRA_Qmq_y3CYZB1rAEhWKMmYzej9XL0XzLpL-pmNr3eleN3sV6bRAZk0NV7fZhW7heAOEh6X6geWV832Gnus09PhdsyP4cN_nyB_kuAD3rq6pkE96kflDNLktVJFWSzy7Ujy-5U3pvWDDEWQb2qaWLCNi_C_0VCdScQS4um1F3x22EaLmvDcKDlaIMhCEcwrjH_wYQ0I1iaRNRMc_Ph6HEk6mF-gbwZs8QY97ghJXif5Cej_z5HWN8myPleil6VbRN4h-TdloYuXrr7LOQ1USPJsfwlvOlgyuchMvsfsEzcwpDb0mAjpNxNebyaeI_BvQ2iKvgipNeGazo0FFzs9tx43C8SuofDSBG8yszr4-2Vb-eJr_9LODA9ZJD-lhDZjYPc6nzOvBTsYk2pXHsNBaGfPbAqancSxwSY53nAWEMdRHvmj7SMH1tvL8LytEgOUhTvhWLPj3ITuP4rtM3Z9xQwT3uvIDM-5TNK1PBegLlYk6x3u8hFkKHuP8gJ_B1HR_YUNr7PhTJXKsBMDmYCObgfjhVQl6Kesig5QAK7m2Yy7PDhPO_0arAZnQ_TrtM3uC-oaUSQjx-2fJEuRMrU6BpmsTi840qAB41HvMuk6Yyxve0sYx_Z8GhrfhAp4A1awPnW_fVOBIt34IsMPVIRcHp2E3pef5MW3pEqFjh2DeGsiqQDcUPTDlY-SWvMBtO3bXCBlVXzHAYaJrDYtymfaC1NLvm4xJ8t1GMUCvxv4ppWQFptb1TYgHaQrA02jz13IMDkQGaLViIOqlgzuyAWVWXXxXVOB7foH3K4ubFHE3AmPRcagSKtauePoiSP1bheV9uN8ZpDFEW_mwx8iAPoj-f8R_xVzwDwLPNrsAwbiH5zJvKUQyk9Nm6Ld8i2p_YZ64wZr5TwP591g9Cza_5ZbFW0tiPMxUDCq27GOULoqwC0_dI6wwSw3H9j0GP9GYHxDoOwH_47kGE5VjXAQjakJZMZVPZ30g40Xryl5mXXUdPlXthA57vpQUalY3y8Ix2HULLUbI-UkTWLOaKXK91ZqW71p_SCdapQRU9Jg0pawln1RJXmjTg7WSPBiYBqQRxs",
+        "status": null
+      },
+      {
+        "id": "ws_0c8bf220917002e70068e4e3ce27e88193ba20ed6f124edbd2",
+        "action": {
+          "query": "Llama 4 Meta AI blog 'Llama 4' 2025 ai meta",
+          "type": "search",
+          "sources": [
+            {
+              "type": "url",
+              "url": "https://about.fb.com/ltam/news/2025/04/la-coleccion-de-modelos-llama-4-el-inicio-de-una-nueva-era-de-innovacion-multimodal-nativa-para-inteligencia-artificial/"
+            },
+            {
+              "type": "url",
+              "url": "https://ai.meta.com//"
+            },
+            {
+              "type": "url",
+              "url": "https://ai.meta.com/meta-ai//"
+            },
+            {
+              "type": "url",
+              "url": "https://about.fb.com/news/2025/09/meta-supporting-us-national-security-with-ai/"
+            },
+            {
+              "type": "url",
+              "url": "https://ai.meta.com/research/publications/purple-llama-cyberseceval-a-benchmark-for-evaluating-the-cybersecurity-risks-of-large-language-models/?_hsenc=p2ANqtz--hnQlhRspVWlvdzMWe8Bu28uGedyI3LO3t2bDJz0j1RxQyAiOcdmKyE9rYA8BTSwWKqJDZ"
+            },
+            {
+              "type": "url",
+              "url": "https://ai.meta.com/blog/niantic-peridot-llama/?utm_campaign=llama&utm_content=video&utm_medium=organic_social&utm_source=linkedin"
+            }
+          ]
+        },
+        "status": "completed",
+        "type": "web_search_call"
+      },
+      {
+        "id": "rs_0c8bf220917002e70068e4e3d2147c8193924e6055d4f1ee1a",
+        "summary": [],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": "gAAAAABo5ORMKwM55HRmKcAIZpftSyC50ytR-aKkAgQql92HOoepk1hDMc6oafn2d4RAaBlJWNGQtRoisxJJFBDnk0EMNvG9puJDkxiT3pQV3vqjRNJ9smTWmpGO1zpgpzU69cgRX1vv3TIYV3uHH6mr3lT47I-JObAA6mpIEG2i4nls52LesrqKArt3Qp4HXvK6ZN8NCHLIWXU6MrtntG-l3l9RGTeqNRpPGUulxNSPw9jqi6lwI6-zQ_-kNLANvVQrsRrm1CEMcxFw1TIF3KPiG79xrkRpl1V909t-If27rcYpmGUU4kx_ygX0Kv7TAtBjxbFIny6uDKQ5zJki5ADSWTOHg1kqXrNfGPe_xXf6fjPDME4A9q1ynTerY4XfVEm2d47BOfLRO7runlGVc9psSQ8iO3mCOMpCKlP0VJ9X5wTvHx0IzNMHCPZUHS_q-RNwDMkvEZH3LsiNcWVcloonEAmEXJ65yd7V5TVKJHb0UOysel6zpTu-ewUUEfnppKOSz1ej-bOw3XIRZFPzSfXNMTMQdwBfpbLIX_BoHaSUl1OV6hUXbH2c3n8-l_g1eY3WvMiEavONNCk-xOGkGmMDOCSLjkBgg_dgk4lTIj1Gk5PSy7292UmGYZxcWeYOD2Cfsl-sEYOf5wJngtDZ08fTJ1y8HNE-lsBsN2ywIhg_Sqa7XKmhLR8-2tDr0rwCzhA5VPy_igHBTmqLPVrruDh6K_NV3xTa2HJbkU5oyDZDuEFpGGbriKBZKS-R7K4OM5G0y5l2nrV8YEcxFptlz9QnzVZF6STB4TGw-iO5NcZ8K16F07ansAR3hAWUVZ2Xf4-0uf3A7eMzT9te05MTUJhDTClz0-Y_8hGhH4ZUuv2pWO6o5NbkiC1HpxhZE8pa8nye9JM3T07fdTTH9ZMZqXNrINdpAyI9C6H_XEn3AWKIUSK0yjV2r7rpr0xSD8o4hdOOF95jPiLVJiXFS35MTJzXBVdd5xFKmMyOrYXflTVFdx6OucepwzM_pbj25rR6aa0c33N0oPF3Drj3C98tQyhVtoRDbfLM8NdsCwi-PNCUI8jV73eYvHTEHY2B33T8A49ffjAEelzkw4582LIg9r852Tvw6NJvHJZFQryggocvNGtaXjZNsIS0j3I9tyqluCIhsK8g78_cykWCFbpCa5WVQvdbtxhVR8XeDTJ5I0-cXHV0Hym1OjwferRBnGNHZlmhN5TMpnzG6audiBw-cZfFJQl9oU1hkSuCPpssotY4tPZmwHsgJDg7fGGt5GULolecF9UtiKPjBeXQDHX5hcTOVo0dSmXayzD8Kk4tZAUq0YwVxP6GHG9TC5rAuKNOrRyce_lnOwcgZPv0oImV53xMANJ-SXGuOFgdiK84Z6ZvHdOgOnflmbs-LHHZSSDW35e79LejbnGkMsKVmoOlF1uTSE8uWyfpe0hDzz65br7DmIDWyGmefPKajZa0i-4GOsIz8AQAZqJCfwX_eEkcKYo67_ssl17tHgSnv2P8iLKTh9uJM0Gi71cXQ1nDcnSw6lkNNES_-YVEXT6iGeri7o25MDCYvN03RnrrSKM0yGhS4s3y1ugmx3uzkHcoE0PYIi9FFbO7gO3JG8qO3ahj-y1qXSg6CqJaEOLQDkO-cK4Vh9511FUcq9i7_uuG7qYLEF7n6XQ8X0jB0Cx24CPg2XxA8hiXa5MadlJEbwUkh2e_ZJzZDGxZEIEPxn7gsKSbTXMX7I70_Sp8JFEnt1aIo8nYplZGGboLOTI0y4fMTFf9e-pf61hcQp1HJqDpXQ_dzTCKGK8c-qgu6QIcApDkY534gea28mAWU2xB7kMsisV4oT2joapZDBOiWEDB0Lg-gp0jK-wJsS6rVK5H5S85ZB1MZ5vxI-XjaS1v4jLEoQADEZxV_doGjVnDGj-xEEhGURMnA4SPZ3SqDsA4uZ8heFULFgATH3PKseUSf5uFebe3cdxcUQ5Akh_nnneIR6nhgykYU8hDf0uQRMXSCRG7Njs0epNIxP308ReFmHTge0Tp8xIWZYLbk26iQSC5GFqzw-5CeJrlcM9t5OGWLdJurqw0c-4rN_1FFNhi8PDG4WpG0vaLI51md30K1Brgsfc5TAWC7c15DBfY3bTnRIyCSVOfZLp_DDH4PDwIhr6kOcBhGPWL-lq7PtMHYxk_JEdCdnJ9nyEK29Xd380m8A510d9sZ7Os9zGQLYFN3qFuLjeos8n7T7UXeR3unZYnRInNrNLZWmkYKcDcvTSjiHPF-Eb-xJuTp03wTJcdhloQT9bD5CRxlP7J8BQGcK4xx1lHX59uPl6uo67jbVru8aUPJ40XZmvKByGFQ56PsYhhdMqkSNtNBdWSlM3ApVpphlRlE2rbjbS5eRaSsL4BYBdcWfALsMLYkIe0A9QEx0bzho-n2IqcSgJlZ2dByDyLwFkw-MYQjsi2kMc2tOaVqkaVgVyUxG-i-Aw6eXW3Lf0MJFKvgduHdx_Q3rt26sNFM4tBAHY50qVrk1gRshlAjtNKYbeTJ3-XnliajzGrEVSXAKqJL6bh9TZ8y3SZx-xRIhzPv2vd5Mo8TbPIAQIBoNwvNKc2bXJUQoHVf-zTyIXJ4j_u6DVboToywT6CavEtZ02olrdt_RTWiumgEeTytAgCp9jiwIAguRKlY4TL5C92ZeEyzcNpdIGjhzKaosUyYVbZBXXntUmz1iJpFxN0vVETTAsOBL8lx2J_E-M9sczh26ULQ6mL6-TB4FzTIOwvevtXBKLoC53PbsghrxstRvi7Yil2zz89xb8zVE3uXLGHK4CRn8QnCsrIO7HeL13sY8cS-RCiGeWgU3m7iGLg4i8YUNTQCmzy47Z-LYCUqQ-Nvz0ciTujrvcaYV1A-1aEvk2lvvQFBQGMTtt0L-gZgJmbIm5C2XoEA5BB5Qw5ntitBxbA9oyGQ6hASmNP4-0AHSsPT8P0vPWeemDLlUSswJy4dC283W-irm-G7py-eWn-th1LGn_t_I1R8GQCHJd6Pn9HfEE-uVGKpXMRv5F-oFgNCFeYI0hgtUVismndhXqcM0gLAl5OLVjEf9xXUeOOzMG3gKbQ-xH_cimVnBliNa-6H6asiWXAVU2DM9gc_6-mvna1ko12wSqJvn4ZSjkErlUKV8nkguLAkVyvOJkGcH2Xvr1zu1TIWL13TpR8-BWXod413djvoNiFUkaMEYwqVB2kAh1_4B8YfDOnUbM9xKEmep495_7jTkLmQ90QMg2NcztDj9Rsh_YJFgDRE1OSgrBgi6Zt5HWhc5RPB3emcDB2TsuCdNyBTvsQ-8mv0WXz7zAiU561gDTNV3guRrNCTo68QBbPEvj0pQKdDnJDTfMwuU01Uh-K093Tb7by8zuexkP-H7Rapt_JJh6gl5UbWZ1o_qwz9ZYQEoa-TlKV5i1w4jYQljhZvJ5QcsBGW66eHRGIhw5U8-_tr_ys8OCAE881u8VYHTIKyx8NgavhLCq3zz_4iBjvXmZgA9HICfhOkGZjcBonQfUGrOb6zR3oED-Prflmcr07Kv5L4dpbLoFnAeFHwIt0lcD-_si7YehFfmuBP6eEb0unUX_Mg0qBkYp9owSJ2rmXkrnmipIgt74xVStSjdnUaWc2D6sxSsSblVD-m6M2MNSdTVL4vPxdsoFXNzVxuR-pObzkkMxZWXbzWqXh00322k-qXpbBWBp1VXxJ8z0dAOjgkYfEVnrog9RzVlzJMqFs7yJmLTAw6BOHV6M5ctxbZNdbNESvgjNZf1VgdTK7Cnn5Z1RyLtnQkdv8KDKK9SEDBLjL1GlAcU4h3KEVcYdiVJceN3D_AA33z9YCd_SRg64JXuEpV10MGMS_AEXRqPFL5CEyvit4opzHKmfJsyUpfs7_gVSsc-un1HHt3t9hknXtREk1VPytvLZDDEGcj17iW--fK9UKfUIugQv2fLy2YLlXuvI2PkjLtdrSsHtDqSkq2A5yec9edSVukQ4Di9YgYQEsDhb-mowG1QJEIpemOEY0fFjnO4yWG_j0sEpYXlmsRK1Wp0q1985Eeq-LzWXzHSChmYwOc6-4WbZXV750edBfCElNaSswHbvE9f284gq5hK2XZKjEZD-ihHahLC1j13-1DHwAdfZvm0Kpkun9h_AyV65ViXAhTG_IW8uZSmrPbkmpnzpt9ChxetgHjLeGU0iP5dgry-LiRdvU_y3nnvvq7VJySd66aa76mr0GuDCisRWkyST_2mBZi8QXUnEXkKHVbopqnb0XdB4zNL2kMeph4Dy0El2jVDI9XjnN7U7PKNJt0G313CUEuRF_Ag_3BG2EIdTqPD3jnJaizOkQx4j86nNsuXt3ONjo6m4o5aVcCS5gfSc1EU0mwHGmJGyP8Cm8U7xhoaW45_ypMIdm-EKr0EtHkvC5CLoZQNX0YUQSEsi0xQkJ8bbiMja85P3eC2ipIkb5VlL3PdxEFj1uWVsKqMumWpQSxMdrRfp6rxLjtiZ6E1LvtN_owd6sccFLhBzL82KyFQ2Pr5FFf6vrIBFYlCBNNKBwdhgKMn5cFawH-ZuLbSDzCoqMXhnYs-ilwKdY_n57ivCGDYOw2AQvFq-dpAvL-3j4Y_wW4T9TYFdvsc9xOIBXyI9qfj5GIB55LXo9TcygqHPFHTd1aaV5TSV6-4SOlhBe1kULG1Mp4AAnQ22VfKHu3RYw2lu89zgcz5imvBFZzSATy9gnrA2xFULtlkFQLwF7ujQ6DX6Izx00yfNV1bK34movvlsCwBULJ72o_66lGp2aVLe0lqXzqFkrefSeKoGsZO2DmpNdSxjwvKynf5BZ-JlDvPmQzKapjr34LSiSdQZM_fi_yck2XT5XMqVCKnjGPSkzupwBVHRZ342_j6TWwJ4Wy2mnq5TUaSDC926E_VKUl0K1LqWYs8BgFWwFhrwLOx_JgxHD86tpicxC6eqJmf3sb7CvAWu6IlX0hRyHiqCK1mdrySfO9aHhqtb2Mv-Zadk_bVf25QZVUFyPF2khhIv8XuBqvwrPxE6-svtjxE6cg13Baxvf2CLf0kR-Sw8wFwhDmuQp-M84_MJxk6bx0kKhZIJAPL0RgoCatRo124FYsAECX57IELnoRgnp25y_hsi74vahQYxhsu6j_3q19P8SB-7LNsiddCcEa8iiT1PmdT7pToyb94KOUS0rptrHd6xtdvnwrtPSpSFBuKUUsi2A8WZQfKVJE7sdT7T4onPYkicxYRwh-6l_Jmup9hScCPYnw_X63gxGCBAPUGSIBGo_SBQd-2UQD4kIugdjW2Yl4XhBYKlytyhtB2CBxUrEWRGJUGPJ30CUDY6c5Ocx6bWK_2Nktxnd17M3SSwKayIZ9az0n2KFYuQW-obIADegppa6nYfxNwQ6kD18_Lm-lCfgmAutAzpy8dN-h2nRDnDdU8U4lmFccAxTQvAHmR3FLSDQCimgZ3NiNstgZfBEHSK4TToAwPPd09Q4Jks3C1tdv_nzWjFv_A-QpF3FctHkWlV8nc6vL5HpM-wckTgbE980Ti6DJzbCdNXmF2mpDFDVJkwwOonNXvT-lIhZm6-lOm28qdxJyBP9xS_PLSsSDr463VHXz1x8-ckXvJ-qP4zmiC3r_NF4S_XHPHBN9YMnyVG3Pv5qMFU2gTW6dnwUkk7blPTJFayGXgp1RjQCd7OJxmqjtP99H3WaC8CdWH5MCS9dbmTelLEzB6-nVc0fXi_QwuCLDwdV_ZzJtzmgP1EFC9YgtWX9pBy1gxRDaJg-MhWNm__ry_IXqlkKKAQKCoYXQbhWwQfTGftQTFAdSM6lQ52Xcdq9C7mp4MCF8ivydTGbaJKdY9eGSxfRMhcK-XJhFAIHLxBjMyRN7kaOyq9WoIvqlSHmax0faDaXybkiLs7Nzz0k7eiCzcl0KNp4QckW1wrZJ29O683Um1NdIBvSqPGafH3jxVzKxqUMGqf1UYzUkSJLp7WBv8FPUqFeSQxM-5eA5BlQjJgK2qGBkYXzfAUtDlWgmBaobjWNZT63GFKDT8Cs-9SYnV58PRzn4HaExL3IED0k9osHaeVyj2KqDw4M2HzBrcC3Ibwwt5nRnHTfowwNOY_rJhd_ur9KBuX8Y2NZAlRHZUvAw7IjpV8NA_ov1-0jJBi-Mdo8jBBUIkiTeXh4-u3S1WUZo8j9SBeKhxEjGZUm6R4BzW6_Kj0Yt9b6HrIgiomIiYQPBpKt_wbMGCL8Y65qsmlb2CxH8KExsn_sp1kGlLqbRt1kRJ-kPbKoiWxQww2BQCIJ9bmYtlujB3yHJWFN9lcQVagpJzlo8Co2flOdAAxs0Iou14c5Atxhyoaa1YaaVUtn333vOi3IOvhUZZkP0z9t_sg8diHjsadZZgq2EGmJaQ6R7yZfDbPdyesA2GQ1mNSPNqe_zejtoAbmZ_0GzXyamKKrWVOcby0pC9arOqYowtvphhulBhUYLM2Z_kNu3XseCooVLeKDU0jJqtPVReOym4NTwWnMbuvjuneuygiK_3Ws4tsQjPDXYvONYWvKJ8IgIyQ7PF6lEhj5MOYjzrdWTDvUdt8rI7r62QB-h8xSWi-intXb0gpufDBx7QXwTusr3P4gs3zeOxuRKcKp4S8yHQmsqjB7dIDcD3J9SgyDNgTqT-p5LQyYwH7mA-lm7nO4uPq9P-i_wIKvz0qiQ4XbR-xqvsM6WGAWj4Uk6MUHcETa5bx1bEEP8-Z3zRm838-RKu5T1EIqKw5hnUoaTRxD5WrBY4LUPR5nh_HLcvc7_u6EzfQ7ofZk1xVktli7KKS5V7Dla4urJ5ePzfTw_L1Yl4LK12S6MoUUewPkYU85pOIxQS8-7HaIjVfgpoyMrB_yQu6hOupt5_eARoP7XragKQ_1uyhmyAY3KjiVWBUk-HgzmXacV-ofeeSLwUr8Jp54Bneb_uyDs2lWrQB2Wzg_DHG6Nu91bSY0cp-J4XHGqakL8kuPFCekPw3cVs7DX8v7YrfdJTvLbfl2zQrbyxSvGGfFVJHG1bXuEMEXnhEOpEVrt0dVxzLKf_Kw9ib8CzIAAOyo8JTZogFudT-dgHkLib3hspZiIxnOV_EgSZcJ6RWWIuwM9c-8ZYUaAykQR9LnJA4PaQqvKftn27msROMorcsBPYEYomvi8XrzDr0t4Uokw-F0u0TYGLHsAb4ZIFoUcgemYRx0WuKyp-2FCUkIpKHL71df-PzxEetzx6EclZBUPMy3MRV0Hq0dLJeqC5YwQEfU65G3QNfzDgyRD-m866I1T8-q2VZT5GG6MMkdqYRFRPnMnKtZB0DK7yKW1rKojH_Y8x_Md27adOpF5PG_RzPse85yEiZr5ERd83xC--DL2TvigLRyAYk4Cv5_i9EtMmftpK4IrXawA8PKWF-3kb0y_FZDwdJ9OZIhl-kZBZTk9TQqjrVDrYdAZ3MVtgaAOJuPvrHzslq-s7hCB7w3vLinDTHXg5ogC742ENdFiFHY_CKh4H5EDO4a5yDw1q0MYlPgHqs4aj9XTfaJlEu2uCOXM0oCmnCJi-zmjyPAi9sx-escZM-rmpaJ98G4gpNcm_hQDgy88vtU2f144QiJpQk66kkKBUZAyagwPEynzpOFY2Ofvod-iF_ct67BCNZYRx0gOvb9rMKJbflL26sSDQ4-bwiqBJPPHKTwjZK3a87ka2zLNPdP1puH5hMcqbwitmMG2BVOabCh8T8Q6FpFCH3c2lKciKamNgcjNtPVr1NVRZdtvCB9Ydy2RSzwbseIEmk4ErQtLznzHbXeiTNkmMU0hk7V1KHv1vPJbQYV4GNP4Mz8dmXWTEvdfIMVBWtrA1zhrN8idsrvsbcF-T0vZiBt8nxZpqa3FnYUuQfKL-v7j4laXo279CufXZ7xetdBPLbULe0wV0Xu-JlFOeO6JYudbraZ2toGxLMcX9zn_XqifhptBzVfzrioeVlPSEaUoEO-LMvK0MHXjc1lVw_EcmJ-21CTvKh-qG4tCsUZvSLAjPjt3jp0YFFOHVOggB5QjtnpuiFhkOSnGzGuqLNQ2m4l3UJ2Nw8k3oWsUi4UUqtNw89Pu_EvmHvlI97hqgHqDYGzW1BP5fQXtDIlrRo0uKEqIpaFNSJgjDrxygDL5M_Bci8mY-w5IZVdoeM-KtVG04c0JHg-wrnkywr7b2whocm6UwSxdNQpw7Y9WUCf2qHCSkG1b0TE5zPovu_RLu_JI8C1TcOeCisjvkX_8UPy4LNAzxDwqZ8HaetemSkOZzVSVXshVJ5Mo6smDOeoJ1r4l9e3o8sMAlawgHZCm5HcmekYOIuaDg9MFFpRPpJYVbuixiWfwDI_v0-uB9eK42MGJLEQ0B0M8MmoO-GfbvS-1lgy4SvztCtPgU6WdAzy7DKG0LiH0ZO7PUju9YUbXllBNvgD1tWPz3r7zVwXpZeZ9AuAeIceKz5FP9qwDNRuMn-53EQHJ7aSR2RDE838IAchl-Kuku279ATvN4Mfwoko2ZWZ6m0b8oidSC9-8tDQI08oCbAK7gYmf0lYt80pGnnYhUNOLCH_WOMtcnlYdlaX56NbYJQe75HjmxPcgdkqt8RuVTrcwi7R807Sj5Qy_eB81CyvVthUchz3d993GvQ7dYUoW2qcdltiF9xBpAMhtVoy3jhWOqlj_Ip5MCSrknMygv_YwKVZqDWzVUEmjJFFarTYXz3hakX6uq4PsxpRYBQMBaBG103a4HmVoqccbxARRMH16hDIv00h6ZPS0Ig8OJAdPpNbP2L0mHJf9Zv574v0dfcPit-s3ggZSVFaoaLeP8RWoR0CjymuqiJG9DfqGWMrZ2rkMm_PFPCp7dHBR7guubxsDHVqLgTZv_vZRwV8I06weHEIOuSm13kO-I8E2VkX5Tau3whxnmJVmbhKBknunhp9WKLLbWJOo-7JDhlkt9FFpjmqV6SN7z2AZhZSKv5SbQ31_LepnPRspaa5MOG63-G7bPSxXqzgPZJsPj0-Hv1lVX9ZZjJizyfmJqOc0ENTAo3_4qXGV-g08NZGKizjR0gq2iWLIG-FGeYGrBZlqbu4-11tTNsD9ugp9vqSyJmtCSWzUwJz2Vr3dxxK0BfpdwgO1StwU5vz-3-PicQQbjFbrYIYlpFGdKPysq3IoOpBZjJb0RaddVyoxt3ZJaA3XheCnCMjMXXSHWRoYfRA8xUrvVHfedvJoeP2Gw5GFxFwSUpZkZOP9tgcyXV1whM2ce3tgqoPMWXOVBDVW4ipm9H7R9pe10ITXhN-RBIbV_N57_Gvy7xRV9ujY-2tkZ6X493xZUSlMvCoCVqeKBypcp9CVjIpk9Dd5H8K-_tjC2fobUnIP5eFZF-7BhmXFAGcOsvkwO_rieuBEpyO7g==",
+        "status": null
+      },
+      {
+        "id": "msg_0c8bf220917002e70068e4e3f5ec788193a08f3e329d5e0048",
+        "content": [
+          {
+            "annotations": [
+              {
+                "end_index": 601,
+                "start_index": 498,
+                "title": "Model Release Notes | OpenAI Help Center",
+                "type": "url_citation",
+                "url": "https://help.openai.com/en/articles/9624314-model-release-notes/?utm_source=openai"
+              },
+              {
+                "end_index": 907,
+                "start_index": 796,
+                "title": "Google I/O 2025: Updates to Gemini 2.5 from Google DeepMind",
+                "type": "url_citation",
+                "url": "https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025?utm_source=openai"
+              },
+              {
+                "end_index": 1257,
+                "start_index": 1119,
+                "title": "Anthropic launches a new AI model that 'thinks' as long as you want | TechCrunch",
+                "type": "url_citation",
+                "url": "https://techcrunch.com/2025/02/24/anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want/?utm_source=openai"
+              },
+              {
+                "end_index": 1431,
+                "start_index": 1379,
+                "title": "Grok 3 Beta — The Age of Reasoning Agents | xAI",
+                "type": "url_citation",
+                "url": "https://x.ai/news/grok-3?utm_source=openai"
+              },
+              {
+                "end_index": 1767,
+                "start_index": 1572,
+                "title": "La colección de modelos Llama 4: Una nueva era de innovación multimodal nativa para Inteligencia Artificial | Acerca de Meta",
+                "type": "url_citation",
+                "url": "https://about.fb.com/ltam/news/2025/04/la-coleccion-de-modelos-llama-4-el-inicio-de-una-nueva-era-de-innovacion-multimodal-nativa-para-inteligencia-artificial/?utm_source=openai"
+              },
+              {
+                "end_index": 1963,
+                "start_index": 1861,
+                "title": "Models Overview | Mistral AI",
+                "type": "url_citation",
+                "url": "https://docs.mistral.ai/getting-started/models/models_overview/?utm_source=openai"
+              },
+              {
+                "end_index": 2478,
+                "start_index": 2379,
+                "title": "OpenAI Wants ChatGPT to Be Your Future Operating System",
+                "type": "url_citation",
+                "url": "https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps?utm_source=openai"
+              },
+              {
+                "end_index": 2816,
+                "start_index": 2653,
+                "title": "Microsoft Build 2025: The age of AI agents and building the open agentic web - The Official Microsoft Blog",
+                "type": "url_citation",
+                "url": "https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/?utm_source=openai"
+              },
+              {
+                "end_index": 3065,
+                "start_index": 2954,
+                "title": "Google I/O 2025: Updates to Gemini 2.5 from Google DeepMind",
+                "type": "url_citation",
+                "url": "https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025?utm_source=openai"
+              },
+              {
+                "end_index": 3300,
+                "start_index": 3233,
+                "title": "Sora 2 is here | OpenAI",
+                "type": "url_citation",
+                "url": "https://openai.com/index/sora-2//?utm_source=openai"
+              },
+              {
+                "end_index": 3514,
+                "start_index": 3448,
+                "title": "Runway | Tools for human imagination.",
+                "type": "url_citation",
+                "url": "https://runwayml.com/changelog?utm_source=openai"
+              },
+              {
+                "end_index": 3842,
+                "start_index": 3735,
+                "title": "Adobe Expands Generative AI Offerings Delivering New Firefly App with Industry’s First Commercially Safe Video Model",
+                "type": "url_citation",
+                "url": "https://news.adobe.com/news/2025/02/firefly-web-app-commercially-safe?utm_source=openai"
+              },
+              {
+                "end_index": 4090,
+                "start_index": 3960,
+                "title": "Stability AI and Arm Bring On-Device Generative Audio to Smartphones  — Stability AI",
+                "type": "url_citation",
+                "url": "https://stability.ai/news/stability-ai-and-arm-bring-on-device-generative-audio-to-smartphones?utm_source=openai"
+              },
+              {
+                "end_index": 4457,
+                "start_index": 4312,
+                "title": "Apple Intelligence features expand to new languages and regions today - Apple (LI)",
+                "type": "url_citation",
+                "url": "https://www.apple.com/li/newsroom/2025/03/apple-intelligence-features-expand-to-new-languages-and-regions-today/?utm_source=openai"
+              },
+              {
+                "end_index": 4759,
+                "start_index": 4641,
+                "title": "GTC 2025 – Announcements and Live Updates | NVIDIA Blog",
+                "type": "url_citation",
+                "url": "https://blogs.nvidia.com/blog/nvidia-keynote-at-gtc-2025-ai-news-live-updates/?utm_source=openai"
+              },
+              {
+                "end_index": 5211,
+                "start_index": 5054,
+                "title": "First rules of the Artificial Intelligence Act are now applicable | Shaping Europe’s digital future",
+                "type": "url_citation",
+                "url": "https://digital-strategy.ec.europa.eu/en/news/first-rules-artificial-intelligence-act-are-now-applicable?utm_source=openai"
+              },
+              {
+                "end_index": 5524,
+                "start_index": 5359,
+                "title": "Governor Newsom signs SB 53, advancing California’s world-leading artificial intelligence industry | Governor of California",
+                "type": "url_citation",
+                "url": "https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/?utm_source=openai"
+              },
+              {
+                "end_index": 5839,
+                "start_index": 5706,
+                "title": "AgentHarm: A benchmark for measuring harmfulness of LLM agents",
+                "type": "url_citation",
+                "url": "https://www.aisi.gov.uk/publications/agentharm-a-benchmark-for-measuring-harmfulness-of-llm-agents?utm_source=openai"
+              },
+              {
+                "end_index": 6127,
+                "start_index": 6007,
+                "title": "NIST GenAI (Pilot): an Overview of Text-to-Text Evaluation Results | NIST",
+                "type": "url_citation",
+                "url": "https://www.nist.gov/publications/nist-genai-pilot-overview-text-text-evaluation-results?utm_source=openai"
+              },
+              {
+                "end_index": 6619,
+                "start_index": 6424,
+                "title": "La colección de modelos Llama 4: Una nueva era de innovación multimodal nativa para Inteligencia Artificial | Acerca de Meta",
+                "type": "url_citation",
+                "url": "https://about.fb.com/ltam/news/2025/04/la-coleccion-de-modelos-llama-4-el-inicio-de-una-nueva-era-de-innovacion-multimodal-nativa-para-inteligencia-artificial/?utm_source=openai"
+              },
+              {
+                "end_index": 6893,
+                "start_index": 6828,
+                "title": "UTBoost: Rigorous Evaluation of Coding Agents on SWE-Bench",
+                "type": "url_citation",
+                "url": "https://arxiv.org/abs/2506.09289?utm_source=openai"
+              },
+              {
+                "end_index": 7127,
+                "start_index": 7062,
+                "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+                "type": "url_citation",
+                "url": "https://arxiv.org/abs/2501.12948?utm_source=openai"
+              },
+              {
+                "end_index": 7626,
+                "start_index": 7559,
+                "title": "Sora 2 is here | OpenAI",
+                "type": "url_citation",
+                "url": "https://openai.com/index/sora-2//?utm_source=openai"
+              },
+              {
+                "end_index": 7904,
+                "start_index": 7786,
+                "title": "GTC 2025 – Announcements and Live Updates | NVIDIA Blog",
+                "type": "url_citation",
+                "url": "https://blogs.nvidia.com/blog/nvidia-keynote-at-gtc-2025-ai-news-live-updates/?utm_source=openai"
+              },
+              {
+                "end_index": 8256,
+                "start_index": 8130,
+                "title": "AI Act | Shaping Europe’s digital future",
+                "type": "url_citation",
+                "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai?utm_source=openai"
+              },
+              {
+                "end_index": 8482,
+                "start_index": 8406,
+                "title": "OpenAI Research | Release | OpenAI",
+                "type": "url_citation",
+                "url": "https://openai.com/research/index/release/?utm_source=openai"
+              },
+              {
+                "end_index": 8698,
+                "start_index": 8587,
+                "title": "Google I/O 2025: Updates to Gemini 2.5 from Google DeepMind",
+                "type": "url_citation",
+                "url": "https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025?utm_source=openai"
+              },
+              {
+                "end_index": 9008,
+                "start_index": 8813,
+                "title": "La colección de modelos Llama 4: Una nueva era de innovación multimodal nativa para Inteligencia Artificial | Acerca de Meta",
+                "type": "url_citation",
+                "url": "https://about.fb.com/ltam/news/2025/04/la-coleccion-de-modelos-llama-4-el-inicio-de-una-nueva-era-de-innovacion-multimodal-nativa-para-inteligencia-artificial/?utm_source=openai"
+              },
+              {
+                "end_index": 9286,
+                "start_index": 9160,
+                "title": "AI Act | Shaping Europe’s digital future",
+                "type": "url_citation",
+                "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai?utm_source=openai"
+              }
+            ],
+            "text": "Voici une synthèse actionnable des avancées marquantes en IA générative observées entre janvier et début octobre 2025, en évitant les redites de vos rapports 2024 (multimodal et text‑to‑video).\n\n1) Modèles de fondation et raisonnement\n- OpenAI: cap sur les modèles “reasoning + agent”. o3 et o4‑mini (16 avr.) apportent un mode de pensée plus long avec usage agentique des outils; GPT‑5 (7 août) unifie réponses instantanées et raisonnement profond avec un nouveau paradigme de “safe‑completions”. ([help.openai.com](https://help.openai.com/en/articles/9624314-model-release-notes/?utm_source=openai))\n- Google: Gemini 2.5 Pro/Flash renforcés (I/O, 20 mai), avec “Deep Think” (test‑time compute), audio natif, et “computer use” (Project Mariner); support MCP dans l’API et budgets de “thinking”. ([blog.google](https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025?utm_source=openai))\n- Anthropic: Claude 3.7 Sonnet (24 fév.) introduit un mode de raisonnement sélectionnable; Claude Sonnet 4.5 (29 sept.) pousse la robustesse (moins de comportements préoccupants, meilleure autonomie prolongée). ([techcrunch.com](https://techcrunch.com/2025/02/24/anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want/?utm_source=openai))\n- xAI: Grok 3 (19 fév.) maximise le raisonnement via RL à grande échelle et test‑time compute; API ouverte au printemps. ([x.ai](https://x.ai/news/grok-3?utm_source=openai))\n- Meta (open‑weights): Llama 4 (5 avr.) bascule en MoE (Scout, Maverick) avec un “teacher” Behemoth; axe multimodal natif et long contexte. ([about.fb.com](https://about.fb.com/ltam/news/2025/04/la-coleccion-de-modelos-llama-4-el-inicio-de-una-nueva-era-de-innovacion-multimodal-nativa-para-inteligencia-artificial/?utm_source=openai))\n- Mistral: nouvelles itérations multimodales (Mistral Medium 3, mai) dans la gamme API/docs. ([docs.mistral.ai](https://docs.mistral.ai/getting-started/models/models_overview/?utm_source=openai))\n\nCe que cela change: convergence sur des architectures “unifiées” avec routage dynamique du compute (réponses rapides vs réflexion longue), généralisation du MoE, et intégration native à des capacités d’agent (tool use, computer use).\n\n2) Agents, outils et plateformes\n- OpenAI place ChatGPT comme “OS conversationnel” (DevDay 2025): SDK d’apps intégrées, AgentKit pour agents pilotables, montée en gamme de Codex. ([wired.com](https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps?utm_source=openai))\n- Écosystème Microsoft (Build 19 mai): Copilot/Studio en mode agents, identités d’agents (Entra Agent ID), gouvernance et évals intégrées; Azure AI Foundry référence Grok 3. ([blogs.microsoft.com](https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/?utm_source=openai))\n- Standardisation: adoption croissante du Model Context Protocol (MCP) côté Google et Microsoft pour ouvrir l’accès aux outils/services. ([blog.google](https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025?utm_source=openai))\n\n3) Génération vidéo, image et audio\n- Sora 2 (30 sept.): améliore physique/contrôle, synchronise dialogues/FX audio, app dédiée; marquage visible + C2PA à la sortie. ([openai.com](https://openai.com/index/sora-2//?utm_source=openai))\n- Runway Gen‑4 (avril): cohérence monde/personnages, version Turbo et références pour consistance; levée Série D pour industrialiser la recherche. ([runwayml.com](https://runwayml.com/changelog?utm_source=openai))\n- Adobe Firefly 2025: modèle vidéo “commercial‑safe” (févr.), intégration de modèles partenaires (OpenAI image, Imagen/Veo, Flux, Luma, Pika, Runway) directement dans Firefly/Creative Cloud; mobile et boards d’idéation. ([news.adobe.com](https://news.adobe.com/news/2025/02/firefly-web-app-commercially-safe?utm_source=openai))\n- Audio: Stability AI pousse l’audio on‑device via ARM (MWC) et sort Stable Audio 2.5 (sept.) pour prod à l’échelle. ([stability.ai](https://stability.ai/news/stability-ai-and-arm-bring-on-device-generative-audio-to-smartphones?utm_source=openai))\n\n4) On‑device et intégration OS\n- Apple Intelligence élargit langues/régions (iOS 18.4 en mars‑avril, accès UE), puis nouvelles capacités à la rentrée (iOS 26/macOS 26), avec traitement on‑device + Private Cloud Compute. ([apple.com](https://www.apple.com/li/newsroom/2025/03/apple-intelligence-features-expand-to-new-languages-and-regions-today/?utm_source=openai))\n- NVIDIA focalise l’inférence et le “test‑time compute” à grande échelle (Blackwell Ultra en H2, “Dynamo” pour modèles de raisonnement; côté PC: FP4 sur RTX 50 et blueprints agents). ([blogs.nvidia.com](https://blogs.nvidia.com/blog/nvidia-keynote-at-gtc-2025-ai-news-live-updates/?utm_source=openai))\n\n5) Régulation, sécurité et évaluation\n- UE: l’AI Act suit son calendrier — interdictions et littératie applicables depuis 2 fév. 2025; obligations GPAI et gouvernance applicables depuis 2 août 2025; code de bonnes pratiques GPAI finalisé/ouverts aux signatures; application complète en 2026+. ([digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu/en/news/first-rules-artificial-intelligence-act-are-now-applicable?utm_source=openai))\n- Californie: SB 53 (29 sept.) “Transparency in Frontier AI Act” promulguée — rapports sécurité/transparence, signalement d’incidents, CalCompute. ([gov.ca.gov](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/?utm_source=openai))\n- UK AI Security Institute (ex‑AISI): nouveaux benchmarks sur agents (AgentHarm) et principes d’évaluation des garde‑fous; résultats de red teaming agents à grande échelle publiés. ([aisi.gov.uk](https://www.aisi.gov.uk/publications/agentharm-a-benchmark-for-measuring-harmfulness-of-llm-agents?utm_source=openai))\n- NIST (US): pilote GenAI 2025 (text‑to‑text) et rapport AML (taxonomy & mitigations) pour cadres d’évaluation/sécurité; montée en puissance des working groups AISIC. ([nist.gov](https://www.nist.gov/publications/nist-genai-pilot-overview-text-text-evaluation-results?utm_source=openai))\n\n6) Open‑source et écosystème entreprise\n- Llama 4 (MoE) ouvre la voie à des poids publics multi‑experts; l’open poursuit sa traction avec DBRX/Arctic (2024) et des itérations 2025 chez Mistral/Alibaba (Qwen2.5, 2024→). Tendance: MoE efficaces et modèles spécialisés (coding, embedding, vision). ([about.fb.com](https://about.fb.com/ltam/news/2025/04/la-coleccion-de-modelos-llama-4-el-inicio-de-una-nueva-era-de-innovacion-multimodal-nativa-para-inteligencia-artificial/?utm_source=openai))\n\n7) Evals techniques et recherche 2025 à suivre\n- Codage/agents: révisions des benchmarks SWE‑Bench (UTBoost) et élargissements multi‑langages (SWE‑PolyBench, Multi‑SWE‑Bench) pour des mesures plus robustes. ([arxiv.org](https://arxiv.org/abs/2506.09289?utm_source=openai))\n- Raisonnement RL: tendance “R1‑like” (DeepSeek R1/Vision‑R1) étendue au multimodal — attente de généralisations stables et de meilleures métriques “thinking budgets”. ([arxiv.org](https://arxiv.org/abs/2501.12948?utm_source=openai))\n\nImpacts concrets pour vos feuilles de route (T4‑2025 / S1‑2026)\n- Produits: privilégier des intégrations “agentiques” avec routage de compute (réponse instantanée vs réflexion), et gouvernance outillée (identité des agents, évals périodiques, journaux d’actions).\n- Créa multimédia: tester Sora 2 et Runway Gen‑4 pour POC de campagnes vidéo courtes; pour les environnements “brand‑safe”, Firefly Video + Content Credentials/C2PA. ([openai.com](https://openai.com/index/sora-2//?utm_source=openai))\n- Données/infra: anticiper les coûts d’inférence long‑contexte/raisonnement; explorer MoE et accélérateurs (Blackwell Ultra) pour charges “test‑time compute”. ([blogs.nvidia.com](https://blogs.nvidia.com/blog/nvidia-keynote-at-gtc-2025-ai-news-live-updates/?utm_source=openai))\n- Conformité: préparer le package EU AI Act GPAI (résumés publics de données d’entraînement, pratiques de copyright/sécurité), et la documentation sécurité/transparence requise par la loi californienne si vous opérez aux US. ([digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai?utm_source=openai))\n\nRadar court terme\n- OpenAI: déploiements progressifs de GPT‑5 dans les agents et Sora 2 via API; suivi des “safe‑completions” et des effets sur UX. ([openai.com](https://openai.com/research/index/release/?utm_source=openai))\n- Google: disponibilité générale de “Deep Think” et montée de “computer use” dans Vertex AI/Gemini App. ([blog.google](https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025?utm_source=openai))\n- Meta: maturité des binaires Llama 4 (scaffolding, vision native) et éventuelle diffusion d’itérations Behemoth. ([about.fb.com](https://about.fb.com/ltam/news/2025/04/la-coleccion-de-modelos-llama-4-el-inicio-de-una-nueva-era-de-innovacion-multimodal-nativa-para-inteligencia-artificial/?utm_source=openai))\n- Safety: nouvelles itérations AISI/NIST sur agents autonomes et red teaming; suivi des codes de pratique GPAI et templates de résumés d’entraînement. ([digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai?utm_source=openai))\n\nSi vous souhaitez, je peux transformer cette veille en tableau de recommandations par cas d’usage (chat métier, copilotes code, génération vidéo marketing, RAG réglementé), avec options modèle/cloud, budget indicatif et risques conformité.",
+            "type": "output_text",
+            "logprobs": []
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message"
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [
+      {
+        "type": "web_search",
+        "filters": null,
+        "search_context_size": "high",
+        "user_location": {
+          "city": null,
+          "country": null,
+          "region": null,
+          "timezone": null,
+          "type": "approximate"
+        }
+      }
+    ],
+    "top_p": 1.0,
+    "background": false,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+      "effort": "medium",
+      "generate_summary": null,
+      "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": {
+      "format": {
+        "type": "text"
+      },
+      "verbosity": "medium"
+    },
+    "top_logprobs": 0,
+    "truncation": "disabled",
+    "usage": {
+      "input_tokens": 79034,
+      "input_tokens_details": {
+        "cached_tokens": 4096
+      },
+      "output_tokens": 7575,
+      "output_tokens_details": {
+        "reasoning_tokens": 5312
+      },
+      "total_tokens": 86609
+    },
+    "user": null,
+    "billing": {
+      "payer": "developer"
+    },
+    "store": true
+  }
+}

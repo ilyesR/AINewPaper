@@ -1,0 +1,55 @@
+--- Résultat généré le 2025-10-07T09:58:36.621101Z (UTC) ---
+
+Voici une synthèse actionnable des avancées marquantes en IA générative observées entre janvier et début octobre 2025, en évitant les redites de vos rapports 2024 (multimodal et text‑to‑video).
+
+1) Modèles de fondation et raisonnement
+- OpenAI: cap sur les modèles “reasoning + agent”. o3 et o4‑mini (16 avr.) apportent un mode de pensée plus long avec usage agentique des outils; GPT‑5 (7 août) unifie réponses instantanées et raisonnement profond avec un nouveau paradigme de “safe‑completions”. ([help.openai.com](https://help.openai.com/en/articles/9624314-model-release-notes/?utm_source=openai))
+- Google: Gemini 2.5 Pro/Flash renforcés (I/O, 20 mai), avec “Deep Think” (test‑time compute), audio natif, et “computer use” (Project Mariner); support MCP dans l’API et budgets de “thinking”. ([blog.google](https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025?utm_source=openai))
+- Anthropic: Claude 3.7 Sonnet (24 fév.) introduit un mode de raisonnement sélectionnable; Claude Sonnet 4.5 (29 sept.) pousse la robustesse (moins de comportements préoccupants, meilleure autonomie prolongée). ([techcrunch.com](https://techcrunch.com/2025/02/24/anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want/?utm_source=openai))
+- xAI: Grok 3 (19 fév.) maximise le raisonnement via RL à grande échelle et test‑time compute; API ouverte au printemps. ([x.ai](https://x.ai/news/grok-3?utm_source=openai))
+- Meta (open‑weights): Llama 4 (5 avr.) bascule en MoE (Scout, Maverick) avec un “teacher” Behemoth; axe multimodal natif et long contexte. ([about.fb.com](https://about.fb.com/ltam/news/2025/04/la-coleccion-de-modelos-llama-4-el-inicio-de-una-nueva-era-de-innovacion-multimodal-nativa-para-inteligencia-artificial/?utm_source=openai))
+- Mistral: nouvelles itérations multimodales (Mistral Medium 3, mai) dans la gamme API/docs. ([docs.mistral.ai](https://docs.mistral.ai/getting-started/models/models_overview/?utm_source=openai))
+
+Ce que cela change: convergence sur des architectures “unifiées” avec routage dynamique du compute (réponses rapides vs réflexion longue), généralisation du MoE, et intégration native à des capacités d’agent (tool use, computer use).
+
+2) Agents, outils et plateformes
+- OpenAI place ChatGPT comme “OS conversationnel” (DevDay 2025): SDK d’apps intégrées, AgentKit pour agents pilotables, montée en gamme de Codex. ([wired.com](https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps?utm_source=openai))
+- Écosystème Microsoft (Build 19 mai): Copilot/Studio en mode agents, identités d’agents (Entra Agent ID), gouvernance et évals intégrées; Azure AI Foundry référence Grok 3. ([blogs.microsoft.com](https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/?utm_source=openai))
+- Standardisation: adoption croissante du Model Context Protocol (MCP) côté Google et Microsoft pour ouvrir l’accès aux outils/services. ([blog.google](https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025?utm_source=openai))
+
+3) Génération vidéo, image et audio
+- Sora 2 (30 sept.): améliore physique/contrôle, synchronise dialogues/FX audio, app dédiée; marquage visible + C2PA à la sortie. ([openai.com](https://openai.com/index/sora-2//?utm_source=openai))
+- Runway Gen‑4 (avril): cohérence monde/personnages, version Turbo et références pour consistance; levée Série D pour industrialiser la recherche. ([runwayml.com](https://runwayml.com/changelog?utm_source=openai))
+- Adobe Firefly 2025: modèle vidéo “commercial‑safe” (févr.), intégration de modèles partenaires (OpenAI image, Imagen/Veo, Flux, Luma, Pika, Runway) directement dans Firefly/Creative Cloud; mobile et boards d’idéation. ([news.adobe.com](https://news.adobe.com/news/2025/02/firefly-web-app-commercially-safe?utm_source=openai))
+- Audio: Stability AI pousse l’audio on‑device via ARM (MWC) et sort Stable Audio 2.5 (sept.) pour prod à l’échelle. ([stability.ai](https://stability.ai/news/stability-ai-and-arm-bring-on-device-generative-audio-to-smartphones?utm_source=openai))
+
+4) On‑device et intégration OS
+- Apple Intelligence élargit langues/régions (iOS 18.4 en mars‑avril, accès UE), puis nouvelles capacités à la rentrée (iOS 26/macOS 26), avec traitement on‑device + Private Cloud Compute. ([apple.com](https://www.apple.com/li/newsroom/2025/03/apple-intelligence-features-expand-to-new-languages-and-regions-today/?utm_source=openai))
+- NVIDIA focalise l’inférence et le “test‑time compute” à grande échelle (Blackwell Ultra en H2, “Dynamo” pour modèles de raisonnement; côté PC: FP4 sur RTX 50 et blueprints agents). ([blogs.nvidia.com](https://blogs.nvidia.com/blog/nvidia-keynote-at-gtc-2025-ai-news-live-updates/?utm_source=openai))
+
+5) Régulation, sécurité et évaluation
+- UE: l’AI Act suit son calendrier — interdictions et littératie applicables depuis 2 fév. 2025; obligations GPAI et gouvernance applicables depuis 2 août 2025; code de bonnes pratiques GPAI finalisé/ouverts aux signatures; application complète en 2026+. ([digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu/en/news/first-rules-artificial-intelligence-act-are-now-applicable?utm_source=openai))
+- Californie: SB 53 (29 sept.) “Transparency in Frontier AI Act” promulguée — rapports sécurité/transparence, signalement d’incidents, CalCompute. ([gov.ca.gov](https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/?utm_source=openai))
+- UK AI Security Institute (ex‑AISI): nouveaux benchmarks sur agents (AgentHarm) et principes d’évaluation des garde‑fous; résultats de red teaming agents à grande échelle publiés. ([aisi.gov.uk](https://www.aisi.gov.uk/publications/agentharm-a-benchmark-for-measuring-harmfulness-of-llm-agents?utm_source=openai))
+- NIST (US): pilote GenAI 2025 (text‑to‑text) et rapport AML (taxonomy & mitigations) pour cadres d’évaluation/sécurité; montée en puissance des working groups AISIC. ([nist.gov](https://www.nist.gov/publications/nist-genai-pilot-overview-text-text-evaluation-results?utm_source=openai))
+
+6) Open‑source et écosystème entreprise
+- Llama 4 (MoE) ouvre la voie à des poids publics multi‑experts; l’open poursuit sa traction avec DBRX/Arctic (2024) et des itérations 2025 chez Mistral/Alibaba (Qwen2.5, 2024→). Tendance: MoE efficaces et modèles spécialisés (coding, embedding, vision). ([about.fb.com](https://about.fb.com/ltam/news/2025/04/la-coleccion-de-modelos-llama-4-el-inicio-de-una-nueva-era-de-innovacion-multimodal-nativa-para-inteligencia-artificial/?utm_source=openai))
+
+7) Evals techniques et recherche 2025 à suivre
+- Codage/agents: révisions des benchmarks SWE‑Bench (UTBoost) et élargissements multi‑langages (SWE‑PolyBench, Multi‑SWE‑Bench) pour des mesures plus robustes. ([arxiv.org](https://arxiv.org/abs/2506.09289?utm_source=openai))
+- Raisonnement RL: tendance “R1‑like” (DeepSeek R1/Vision‑R1) étendue au multimodal — attente de généralisations stables et de meilleures métriques “thinking budgets”. ([arxiv.org](https://arxiv.org/abs/2501.12948?utm_source=openai))
+
+Impacts concrets pour vos feuilles de route (T4‑2025 / S1‑2026)
+- Produits: privilégier des intégrations “agentiques” avec routage de compute (réponse instantanée vs réflexion), et gouvernance outillée (identité des agents, évals périodiques, journaux d’actions).
+- Créa multimédia: tester Sora 2 et Runway Gen‑4 pour POC de campagnes vidéo courtes; pour les environnements “brand‑safe”, Firefly Video + Content Credentials/C2PA. ([openai.com](https://openai.com/index/sora-2//?utm_source=openai))
+- Données/infra: anticiper les coûts d’inférence long‑contexte/raisonnement; explorer MoE et accélérateurs (Blackwell Ultra) pour charges “test‑time compute”. ([blogs.nvidia.com](https://blogs.nvidia.com/blog/nvidia-keynote-at-gtc-2025-ai-news-live-updates/?utm_source=openai))
+- Conformité: préparer le package EU AI Act GPAI (résumés publics de données d’entraînement, pratiques de copyright/sécurité), et la documentation sécurité/transparence requise par la loi californienne si vous opérez aux US. ([digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai?utm_source=openai))
+
+Radar court terme
+- OpenAI: déploiements progressifs de GPT‑5 dans les agents et Sora 2 via API; suivi des “safe‑completions” et des effets sur UX. ([openai.com](https://openai.com/research/index/release/?utm_source=openai))
+- Google: disponibilité générale de “Deep Think” et montée de “computer use” dans Vertex AI/Gemini App. ([blog.google](https://blog.google/technology/google-deepmind/google-gemini-updates-io-2025?utm_source=openai))
+- Meta: maturité des binaires Llama 4 (scaffolding, vision native) et éventuelle diffusion d’itérations Behemoth. ([about.fb.com](https://about.fb.com/ltam/news/2025/04/la-coleccion-de-modelos-llama-4-el-inicio-de-una-nueva-era-de-innovacion-multimodal-nativa-para-inteligencia-artificial/?utm_source=openai))
+- Safety: nouvelles itérations AISI/NIST sur agents autonomes et red teaming; suivi des codes de pratique GPAI et templates de résumés d’entraînement. ([digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai?utm_source=openai))
+
+Si vous souhaitez, je peux transformer cette veille en tableau de recommandations par cas d’usage (chat métier, copilotes code, génération vidéo marketing, RAG réglementé), avec options modèle/cloud, budget indicatif et risques conformité.
