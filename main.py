@@ -2,16 +2,16 @@
 """
 veille_research.py
 Script de veille technologique utilisant l'API OpenAI + outil Web Search.
-⚠️ La clé API est écrite en dur pour simplifier les tests en local.
 """
 
 import json
 import sys
+import os
 from datetime import datetime
 from openai import OpenAI
 
-# ⚠️ Mets ta vraie clé ici — ne partage jamais ce fichier publiquement !
-API_KEY = "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"
+# Clé API depuis les variables d'environnement
+API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Fichiers utilisés
 INPUT_FILE = "subject.json"
@@ -33,6 +33,12 @@ def load_subject(path):
         sys.exit(1)
 
 def main():
+    # Vérifier que la clé API est définie
+    if not API_KEY:
+        print("[ERREUR] La variable d'environnement OPENAI_API_KEY n'est pas définie.", file=sys.stderr)
+        print("Veuillez définir votre clé API OpenAI dans les variables d'environnement.", file=sys.stderr)
+        sys.exit(1)
+    
     client = OpenAI(api_key=API_KEY)
 
     subject_json = load_subject(INPUT_FILE)
